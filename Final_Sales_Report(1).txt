@@ -1,0 +1,18 @@
+
+SUPER MARKET SALES ANALYSIS
+
+Total Sales: Rs. 1851010.00
+
+Total Orders: 1000
+
+Total Quantity Sold: 4093
+
+Best Category: Food & Beverages
+
+Best Selling Product: Detergent
+
+Best Branch: Chennai
+
+Popular Payment Method: UPI
+
+Project Completed Successfully!

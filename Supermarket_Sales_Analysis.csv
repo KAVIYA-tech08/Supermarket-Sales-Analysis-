@@ -1,0 +1,1001 @@
+Invoice_ID,Date,Branch,Customer_Type,Gender,Product,Category,Quantity,Unit_Price,Payment_Method,Rating,Total_Sales,Month
+INV0001,2025-12-27,Coimbatore,Normal,Male,Headphones,Electronics,3,271.59,UPI,7.3,814.77,12
+INV0002,2025-03-31,Chennai,Normal,Male,Detergent,Household,2,611.7,UPI,9.3,1223.4,3
+INV0003,2025-08-08,Madurai,Member,Male,Marker,Stationery,2,169.49,Credit Card,9.7,338.98,8
+INV0004,2025-07-11,Coimbatore,Normal,Female,Toothpaste,Personal Care,4,68.77,Credit Card,9.7,275.08,7
+INV0005,2025-03-04,Madurai,Member,Female,Cleaner,Household,1,311.41,Debit Card,5.6,311.41,3
+INV0006,2025-03-14,Madurai,Normal,Female,Marker,Stationery,1,694.05,Debit Card,6.9,694.05,3
+INV0007,2025-06-10,Chennai,Member,Female,Pen,Stationery,6,384.04,Cash,5.1,2304.24,6
+INV0008,2025-06-18,Madurai,Normal,Male,Charger,Electronics,6,594.62,UPI,9.3,3567.72,6
+INV0009,2025-03-30,Chennai,Member,Male,Face Wash,Personal Care,5,530.06,Credit Card,6.8,2650.3,3
+INV0010,2025-06-25,Chennai,Member,Female,Headphones,Electronics,7,39.55,Debit Card,8.2,276.85,6
+INV0011,2025-09-26,Chennai,Normal,Male,Coffee,Food & Beverages,4,889.92,Credit Card,8.6,3559.68,9
+INV0012,2025-03-14,Coimbatore,Normal,Male,Shampoo,Personal Care,7,56.46,Debit Card,7.1,395.22,3
+INV0013,2025-09-02,Coimbatore,Member,Female,Notebook,Stationery,7,871.67,Cash,6.5,6101.69,9
+INV0014,2025-03-18,Chennai,Normal,Female,Bread,Food & Beverages,3,503.88,Cash,9.8,1511.64,3
+INV0015,2025-06-08,Madurai,Member,Female,Cleaner,Household,7,867.58,Credit Card,9.8,6073.06,6
+INV0016,2025-11-20,Chennai,Normal,Female,Face Wash,Personal Care,3,120.98,Cash,6.4,362.94,11
+INV0017,2025-04-08,Madurai,Normal,Female,Bulb,Electronics,7,451.56,Credit Card,7.4,3160.92,4
+INV0018,2025-04-12,Chennai,Member,Female,Cleaner,Household,4,169.16,Debit Card,9.9,676.64,4
+INV0019,2025-05-12,Madurai,Normal,Male,Headphones,Electronics,3,64.86,UPI,5.0,194.58,5
+INV0020,2025-04-12,Coimbatore,Normal,Male,Detergent,Household,1,563.43,Cash,7.1,563.43,4
+INV0021,2025-01-19,Madurai,Member,Female,Cleaner,Household,3,202.85,Debit Card,5.5,608.55,1
+INV0022,2025-03-23,Chennai,Normal,Male,Notebook,Stationery,3,537.17,UPI,7.5,1611.51,3
+INV0023,2025-10-06,Coimbatore,Member,Female,Face Wash,Personal Care,4,118.88,UPI,5.1,475.52,10
+INV0024,2025-12-05,Madurai,Member,Female,Coffee,Food & Beverages,4,312.15,UPI,7.0,1248.6,12
+INV0025,2025-12-31,Madurai,Member,Female,Shampoo,Personal Care,3,707.84,Debit Card,6.1,2123.52,12
+INV0026,2025-11-27,Madurai,Member,Female,Milk,Food & Beverages,2,404.61,Debit Card,7.7,809.22,11
+INV0027,2025-05-09,Madurai,Member,Male,Pen,Stationery,4,572.42,Credit Card,10.0,2289.68,5
+INV0028,2025-12-10,Madurai,Normal,Female,Bulb,Electronics,5,589.76,UPI,9.0,2948.8,12
+INV0029,2025-11-06,Coimbatore,Member,Male,Bulb,Electronics,5,762.5,UPI,9.2,3812.5,11
+INV0030,2025-03-30,Coimbatore,Member,Female,Headphones,Electronics,1,305.93,UPI,8.2,305.93,3
+INV0031,2025-08-01,Coimbatore,Normal,Female,Dishwash Liquid,Household,7,624.82,Credit Card,5.2,4373.74,8
+INV0032,2025-05-23,Coimbatore,Normal,Female,Coffee,Food & Beverages,3,866.22,UPI,6.0,2598.66,5
+INV0033,2025-03-06,Chennai,Normal,Male,Face Wash,Personal Care,2,662.61,Debit Card,9.6,1325.22,3
+INV0034,2025-03-17,Coimbatore,Member,Female,Charger,Electronics,1,451.09,UPI,6.8,451.09,3
+INV0035,2025-07-18,Madurai,Member,Female,Face Wash,Personal Care,3,575.03,Cash,5.5,1725.09,7
+INV0036,2025-05-23,Madurai,Member,Female,Marker,Stationery,4,670.92,Debit Card,8.5,2683.68,5
+INV0037,2025-11-12,Coimbatore,Normal,Male,Shampoo,Personal Care,5,558.8,Credit Card,6.5,2794.0,11
+INV0038,2025-04-03,Madurai,Member,Male,Charger,Electronics,6,34.67,UPI,6.3,208.02,4
+INV0039,2025-11-01,Coimbatore,Normal,Male,Shampoo,Personal Care,2,191.4,Cash,10.0,382.8,11
+INV0040,2025-08-12,Madurai,Member,Female,Charger,Electronics,6,733.21,Credit Card,9.3,4399.26,8
+INV0041,2025-10-18,Chennai,Normal,Male,Headphones,Electronics,5,259.93,Credit Card,7.0,1299.65,10
+INV0042,2025-04-12,Chennai,Member,Female,Notebook,Stationery,7,663.77,Debit Card,9.9,4646.39,4
+INV0043,2025-09-24,Coimbatore,Member,Male,Toothpaste,Personal Care,7,347.47,Credit Card,8.3,2432.29,9
+INV0044,2025-12-21,Coimbatore,Member,Male,Pen,Stationery,6,479.26,Credit Card,8.7,2875.56,12
+INV0045,2025-04-20,Coimbatore,Normal,Female,Coffee,Food & Beverages,4,79.82,Credit Card,5.2,319.28,4
+INV0046,2025-11-26,Madurai,Normal,Male,Headphones,Electronics,3,179.48,Credit Card,5.6,538.44,11
+INV0047,2025-09-22,Coimbatore,Member,Female,Oil,Food & Beverages,4,862.33,UPI,8.2,3449.32,9
+INV0048,2025-01-03,Chennai,Member,Female,Notebook,Stationery,6,803.32,UPI,9.5,4819.92,1
+INV0049,2025-03-26,Madurai,Member,Male,Rice,Food & Beverages,4,594.0,UPI,8.1,2376.0,3
+INV0050,2025-10-09,Coimbatore,Normal,Female,Coffee,Food & Beverages,5,424.49,UPI,5.7,2122.45,10
+INV0051,2025-11-24,Madurai,Member,Female,Cleaner,Household,2,614.67,Cash,5.6,1229.34,11
+INV0052,2025-10-31,Madurai,Member,Male,Bread,Food & Beverages,4,564.38,UPI,9.2,2257.52,10
+INV0053,2025-04-27,Coimbatore,Member,Male,Detergent,Household,5,520.33,Credit Card,5.7,2601.65,4
+INV0054,2025-08-09,Madurai,Member,Female,Detergent,Household,2,72.08,UPI,7.6,144.16,8
+INV0055,2025-06-03,Chennai,Normal,Male,Toothpaste,Personal Care,7,576.87,UPI,5.2,4038.09,6
+INV0056,2025-06-02,Chennai,Normal,Female,Soap,Personal Care,3,696.65,Debit Card,5.4,2089.95,6
+INV0057,2025-01-12,Madurai,Member,Female,Bulb,Electronics,6,894.79,Credit Card,8.4,5368.74,1
+INV0058,2025-05-13,Coimbatore,Member,Male,Coffee,Food & Beverages,7,29.75,UPI,8.4,208.25,5
+INV0059,2025-10-31,Madurai,Normal,Male,Soap,Personal Care,3,662.55,UPI,6.7,1987.65,10
+INV0060,2025-10-20,Chennai,Normal,Male,Marker,Stationery,7,523.17,UPI,6.1,3662.19,10
+INV0061,2025-10-27,Madurai,Member,Male,Charger,Electronics,1,401.97,Cash,9.1,401.97,10
+INV0062,2025-08-16,Madurai,Normal,Female,Cleaner,Household,7,132.26,UPI,6.1,925.82,8
+INV0063,2025-09-28,Chennai,Normal,Female,Bread,Food & Beverages,5,379.99,Debit Card,7.7,1899.95,9
+INV0064,2025-02-12,Madurai,Member,Male,Marker,Stationery,2,331.85,Credit Card,9.8,663.7,2
+INV0065,2025-12-09,Madurai,Normal,Male,Detergent,Household,7,286.49,Credit Card,5.7,2005.43,12
+INV0066,2025-11-22,Coimbatore,Normal,Female,Pen,Stationery,4,663.17,UPI,9.7,2652.68,11
+INV0067,2025-10-29,Coimbatore,Member,Female,Detergent,Household,3,636.64,UPI,5.9,1909.92,10
+INV0068,2025-12-30,Chennai,Member,Female,Shampoo,Personal Care,7,538.34,UPI,7.8,3768.38,12
+INV0069,2025-01-21,Chennai,Normal,Female,Headphones,Electronics,2,846.03,Credit Card,6.9,1692.06,1
+INV0070,2025-04-17,Chennai,Member,Male,Cleaner,Household,5,327.87,Credit Card,9.8,1639.35,4
+INV0071,2025-12-02,Coimbatore,Normal,Female,Coffee,Food & Beverages,1,234.55,Cash,6.4,234.55,12
+INV0072,2025-10-30,Chennai,Member,Female,Pen,Stationery,3,597.19,Debit Card,7.0,1791.57,10
+INV0073,2025-04-27,Chennai,Normal,Male,Marker,Stationery,6,194.96,Cash,9.9,1169.76,4
+INV0074,2025-05-04,Chennai,Member,Female,Marker,Stationery,2,297.21,Debit Card,7.7,594.42,5
+INV0075,2025-10-08,Coimbatore,Normal,Female,Detergent,Household,6,217.65,Cash,7.5,1305.9,10
+INV0076,2025-10-19,Madurai,Normal,Male,Headphones,Electronics,2,80.86,Credit Card,6.3,161.72,10
+INV0077,2025-07-22,Chennai,Normal,Male,Cleaner,Household,2,748.2,Cash,8.5,1496.4,7
+INV0078,2025-02-20,Madurai,Member,Male,Charger,Electronics,5,244.0,Debit Card,5.1,1220.0,2
+INV0079,2025-09-28,Chennai,Member,Female,Soap,Personal Care,5,436.26,UPI,5.2,2181.3,9
+INV0080,2025-11-20,Madurai,Normal,Female,Oil,Food & Beverages,5,58.12,Debit Card,8.0,290.6,11
+INV0081,2025-10-04,Coimbatore,Normal,Male,Charger,Electronics,7,635.42,UPI,6.7,4447.94,10
+INV0082,2025-05-21,Coimbatore,Member,Male,Dishwash Liquid,Household,4,310.89,Credit Card,9.8,1243.56,5
+INV0083,2025-10-02,Chennai,Member,Female,Headphones,Electronics,2,675.37,Debit Card,9.5,1350.74,10
+INV0084,2025-10-17,Madurai,Member,Male,Rice,Food & Beverages,3,382.91,Cash,8.6,1148.73,10
+INV0085,2025-11-30,Coimbatore,Member,Male,Bread,Food & Beverages,6,192.26,Debit Card,9.1,1153.56,11
+INV0086,2025-02-21,Chennai,Member,Male,Coffee,Food & Beverages,5,471.59,UPI,8.3,2357.95,2
+INV0087,2025-01-27,Chennai,Member,Female,Notebook,Stationery,7,134.84,Credit Card,5.6,943.88,1
+INV0088,2025-06-06,Coimbatore,Normal,Female,Cleaner,Household,5,407.67,Cash,8.8,2038.35,6
+INV0089,2025-08-27,Coimbatore,Member,Female,Detergent,Household,6,299.23,Debit Card,6.1,1795.38,8
+INV0090,2025-06-05,Chennai,Normal,Female,Notebook,Stationery,6,822.52,UPI,6.6,4935.12,6
+INV0091,2025-10-18,Madurai,Member,Female,Dishwash Liquid,Household,2,73.62,Cash,9.1,147.24,10
+INV0092,2025-05-16,Madurai,Member,Female,Bulb,Electronics,5,630.74,Credit Card,7.7,3153.7,5
+INV0093,2025-05-24,Madurai,Normal,Male,Dishwash Liquid,Household,6,180.82,Cash,9.3,1084.92,5
+INV0094,2025-04-16,Chennai,Normal,Female,Coffee,Food & Beverages,4,300.76,Credit Card,6.1,1203.04,4
+INV0095,2025-06-07,Coimbatore,Member,Female,Rice,Food & Beverages,4,385.65,Cash,8.0,1542.6,6
+INV0096,2025-05-26,Chennai,Normal,Male,Face Wash,Personal Care,5,819.05,Debit Card,5.4,4095.25,5
+INV0097,2025-01-02,Coimbatore,Normal,Female,Charger,Electronics,7,233.47,UPI,8.2,1634.29,1
+INV0098,2025-03-18,Madurai,Normal,Female,Toothpaste,Personal Care,6,100.35,Debit Card,8.8,602.1,3
+INV0099,2025-05-12,Madurai,Normal,Male,Oil,Food & Beverages,2,300.45,Debit Card,7.9,600.9,5
+INV0100,2025-03-31,Coimbatore,Member,Male,Rice,Food & Beverages,2,112.11,Credit Card,6.3,224.22,3
+INV0101,2025-12-11,Coimbatore,Normal,Male,Detergent,Household,7,133.16,Credit Card,5.2,932.12,12
+INV0102,2025-12-16,Chennai,Member,Female,Shampoo,Personal Care,2,524.99,Credit Card,5.6,1049.98,12
+INV0103,2025-09-20,Madurai,Member,Male,Charger,Electronics,1,73.59,Debit Card,8.1,73.59,9
+INV0104,2025-12-17,Chennai,Member,Female,Notebook,Stationery,5,47.22,Cash,9.7,236.1,12
+INV0105,2025-04-18,Chennai,Member,Female,Bread,Food & Beverages,2,648.68,Cash,6.0,1297.36,4
+INV0106,2025-03-15,Chennai,Normal,Female,Soap,Personal Care,4,338.25,Debit Card,8.7,1353.0,3
+INV0107,2025-02-08,Madurai,Normal,Female,Charger,Electronics,6,130.33,Debit Card,9.3,781.98,2
+INV0108,2025-06-08,Chennai,Member,Male,Bulb,Electronics,3,243.18,UPI,7.6,729.54,6
+INV0109,2025-03-12,Chennai,Member,Male,Cleaner,Household,7,585.04,Credit Card,8.3,4095.28,3
+INV0110,2025-11-08,Chennai,Member,Female,Oil,Food & Beverages,3,262.47,Credit Card,9.1,787.41,11
+INV0111,2025-08-29,Chennai,Member,Male,Charger,Electronics,2,455.18,Debit Card,6.3,910.36,8
+INV0112,2025-10-25,Chennai,Normal,Female,Cleaner,Household,3,127.09,Debit Card,6.5,381.27,10
+INV0113,2025-02-05,Chennai,Member,Female,Rice,Food & Beverages,3,537.52,Cash,5.0,1612.56,2
+INV0114,2025-03-25,Madurai,Normal,Female,Bulb,Electronics,1,298.15,Debit Card,9.8,298.15,3
+INV0115,2025-09-20,Chennai,Member,Male,Marker,Stationery,4,571.73,Cash,9.6,2286.92,9
+INV0116,2025-11-06,Coimbatore,Member,Female,Bulb,Electronics,7,731.39,Debit Card,8.8,5119.73,11
+INV0117,2025-06-21,Chennai,Member,Female,Bulb,Electronics,4,558.25,UPI,5.4,2233.0,6
+INV0118,2025-06-22,Chennai,Member,Male,Toothpaste,Personal Care,1,280.26,UPI,7.2,280.26,6
+INV0119,2025-12-28,Madurai,Normal,Male,Cleaner,Household,1,245.05,Cash,5.5,245.05,12
+INV0120,2025-02-16,Madurai,Normal,Male,Headphones,Electronics,3,308.13,Credit Card,5.1,924.39,2
+INV0121,2025-05-21,Coimbatore,Normal,Male,Milk,Food & Beverages,5,164.87,UPI,8.1,824.35,5
+INV0122,2025-04-28,Coimbatore,Member,Female,Bread,Food & Beverages,6,179.43,Cash,9.8,1076.58,4
+INV0123,2025-10-04,Madurai,Member,Male,Headphones,Electronics,6,715.81,Debit Card,9.5,4294.86,10
+INV0124,2025-08-02,Madurai,Normal,Female,Milk,Food & Beverages,3,358.56,Debit Card,8.5,1075.68,8
+INV0125,2025-08-08,Chennai,Normal,Male,Toothpaste,Personal Care,6,403.68,Cash,5.5,2422.08,8
+INV0126,2025-01-26,Madurai,Member,Male,Charger,Electronics,1,542.76,Credit Card,6.4,542.76,1
+INV0127,2025-01-09,Coimbatore,Member,Male,Coffee,Food & Beverages,4,538.9,Cash,6.6,2155.6,1
+INV0128,2025-09-28,Chennai,Normal,Male,Headphones,Electronics,6,79.29,Cash,8.8,475.74,9
+INV0129,2025-01-10,Coimbatore,Member,Male,Soap,Personal Care,7,751.76,UPI,9.0,5262.32,1
+INV0130,2025-05-01,Chennai,Member,Male,Headphones,Electronics,3,176.05,Cash,6.9,528.15,5
+INV0131,2025-05-05,Madurai,Normal,Female,Marker,Stationery,5,656.3,Cash,7.1,3281.5,5
+INV0132,2025-06-19,Coimbatore,Member,Male,Rice,Food & Beverages,3,699.95,Debit Card,5.2,2099.85,6
+INV0133,2025-03-13,Chennai,Normal,Male,Cleaner,Household,2,649.11,UPI,6.4,1298.22,3
+INV0134,2025-06-01,Chennai,Member,Male,Dishwash Liquid,Household,3,529.5,Debit Card,7.3,1588.5,6
+INV0135,2025-07-27,Madurai,Normal,Male,Coffee,Food & Beverages,1,32.86,Debit Card,5.6,32.86,7
+INV0136,2025-02-18,Madurai,Member,Female,Detergent,Household,4,337.13,Credit Card,7.3,1348.52,2
+INV0137,2025-06-03,Madurai,Normal,Male,Charger,Electronics,4,552.26,Credit Card,9.3,2209.04,6
+INV0138,2025-12-13,Coimbatore,Normal,Male,Charger,Electronics,7,360.96,UPI,7.9,2526.72,12
+INV0139,2025-10-20,Chennai,Normal,Male,Dishwash Liquid,Household,6,779.86,UPI,5.4,4679.16,10
+INV0140,2025-03-09,Madurai,Normal,Male,Bread,Food & Beverages,1,291.75,Credit Card,6.0,291.75,3
+INV0141,2025-02-19,Coimbatore,Member,Female,Oil,Food & Beverages,2,278.31,Credit Card,7.4,556.62,2
+INV0142,2025-06-01,Coimbatore,Member,Male,Face Wash,Personal Care,1,254.08,Credit Card,6.8,254.08,6
+INV0143,2025-01-19,Coimbatore,Normal,Female,Shampoo,Personal Care,3,312.85,Credit Card,6.8,938.55,1
+INV0144,2025-04-10,Madurai,Member,Male,Detergent,Household,1,510.52,Credit Card,7.6,510.52,4
+INV0145,2025-03-01,Madurai,Member,Female,Coffee,Food & Beverages,1,642.17,Debit Card,7.9,642.17,3
+INV0146,2025-06-16,Chennai,Member,Female,Coffee,Food & Beverages,7,603.06,UPI,9.0,4221.42,6
+INV0147,2025-07-21,Chennai,Member,Male,Oil,Food & Beverages,2,730.79,Debit Card,6.7,1461.58,7
+INV0148,2025-12-11,Madurai,Member,Male,Bulb,Electronics,3,799.6,Debit Card,9.0,2398.8,12
+INV0149,2025-05-26,Coimbatore,Normal,Female,Detergent,Household,5,738.15,Cash,6.7,3690.75,5
+INV0150,2025-06-13,Coimbatore,Normal,Female,Coffee,Food & Beverages,7,36.67,Debit Card,5.3,256.69,6
+INV0151,2025-08-30,Coimbatore,Normal,Male,Cleaner,Household,5,667.61,Credit Card,7.8,3338.05,8
+INV0152,2025-03-10,Chennai,Normal,Female,Marker,Stationery,7,203.39,Credit Card,7.9,1423.73,3
+INV0153,2025-06-24,Coimbatore,Member,Female,Cleaner,Household,4,136.98,Cash,9.7,547.92,6
+INV0154,2025-02-18,Chennai,Member,Female,Soap,Personal Care,7,581.87,Cash,8.6,4073.09,2
+INV0155,2025-04-18,Chennai,Normal,Male,Coffee,Food & Beverages,6,301.37,Cash,9.6,1808.22,4
+INV0156,2025-08-14,Coimbatore,Member,Female,Oil,Food & Beverages,1,70.26,Cash,9.5,70.26,8
+INV0157,2025-06-10,Coimbatore,Member,Female,Headphones,Electronics,4,141.11,Cash,8.0,564.44,6
+INV0158,2025-04-29,Madurai,Normal,Female,Cleaner,Household,2,20.82,Debit Card,7.6,41.64,4
+INV0159,2025-05-29,Madurai,Member,Male,Rice,Food & Beverages,5,814.84,Cash,7.8,4074.2,5
+INV0160,2025-05-30,Coimbatore,Normal,Male,Charger,Electronics,7,41.66,Debit Card,9.9,291.62,5
+INV0161,2025-10-20,Chennai,Normal,Female,Pen,Stationery,1,204.32,UPI,8.9,204.32,10
+INV0162,2025-05-23,Chennai,Member,Male,Pen,Stationery,2,386.31,Cash,5.5,772.62,5
+INV0163,2025-06-09,Chennai,Member,Female,Detergent,Household,6,333.78,Cash,8.9,2002.68,6
+INV0164,2025-01-11,Chennai,Normal,Male,Notebook,Stationery,2,822.32,Debit Card,5.9,1644.64,1
+INV0165,2025-05-18,Chennai,Normal,Male,Oil,Food & Beverages,1,55.45,UPI,7.2,55.45,5
+INV0166,2025-03-19,Madurai,Member,Female,Detergent,Household,6,470.75,Debit Card,6.1,2824.5,3
+INV0167,2025-03-18,Coimbatore,Normal,Male,Bulb,Electronics,2,618.82,Debit Card,8.4,1237.64,3
+INV0168,2025-09-11,Madurai,Normal,Male,Notebook,Stationery,6,839.89,Cash,9.4,5039.34,9
+INV0169,2025-09-15,Chennai,Normal,Male,Bread,Food & Beverages,7,565.93,Credit Card,6.5,3961.51,9
+INV0170,2025-11-16,Chennai,Member,Female,Soap,Personal Care,7,727.3,Credit Card,5.4,5091.1,11
+INV0171,2025-10-18,Chennai,Normal,Male,Toothpaste,Personal Care,1,93.68,Debit Card,6.5,93.68,10
+INV0172,2025-09-20,Chennai,Member,Male,Toothpaste,Personal Care,1,359.63,Cash,8.4,359.63,9
+INV0173,2025-03-26,Coimbatore,Normal,Female,Face Wash,Personal Care,6,349.07,UPI,6.6,2094.42,3
+INV0174,2025-05-26,Chennai,Member,Male,Toothpaste,Personal Care,3,799.93,Credit Card,6.4,2399.79,5
+INV0175,2025-11-19,Coimbatore,Normal,Male,Dishwash Liquid,Household,4,153.21,UPI,5.9,612.84,11
+INV0176,2025-02-11,Chennai,Member,Male,Shampoo,Personal Care,2,153.66,Credit Card,7.5,307.32,2
+INV0177,2025-05-05,Coimbatore,Member,Male,Rice,Food & Beverages,2,309.13,Cash,6.4,618.26,5
+INV0178,2025-06-16,Madurai,Member,Male,Bread,Food & Beverages,3,67.93,Debit Card,8.7,203.79,6
+INV0179,2025-08-29,Chennai,Normal,Female,Pen,Stationery,3,180.56,UPI,5.4,541.68,8
+INV0180,2025-10-07,Coimbatore,Normal,Female,Toothpaste,Personal Care,3,869.38,UPI,8.3,2608.14,10
+INV0181,2025-07-07,Madurai,Normal,Male,Soap,Personal Care,5,396.8,Debit Card,6.2,1984.0,7
+INV0182,2025-10-29,Chennai,Member,Male,Pen,Stationery,5,576.18,UPI,7.4,2880.9,10
+INV0183,2025-01-19,Chennai,Normal,Male,Coffee,Food & Beverages,6,658.98,Credit Card,6.4,3953.88,1
+INV0184,2025-03-09,Chennai,Member,Female,Notebook,Stationery,5,342.93,Debit Card,8.6,1714.65,3
+INV0185,2025-08-06,Coimbatore,Normal,Female,Bulb,Electronics,7,149.56,Credit Card,9.7,1046.92,8
+INV0186,2025-04-12,Coimbatore,Member,Male,Charger,Electronics,7,201.79,Credit Card,9.6,1412.53,4
+INV0187,2025-02-11,Madurai,Member,Male,Face Wash,Personal Care,1,295.67,Cash,7.9,295.67,2
+INV0188,2025-10-15,Coimbatore,Member,Female,Detergent,Household,6,579.74,Credit Card,7.3,3478.44,10
+INV0189,2025-06-16,Coimbatore,Normal,Male,Toothpaste,Personal Care,2,370.49,Cash,9.1,740.98,6
+INV0190,2025-04-19,Chennai,Normal,Female,Pen,Stationery,4,26.0,UPI,8.4,104.0,4
+INV0191,2025-02-05,Chennai,Normal,Female,Shampoo,Personal Care,1,480.6,UPI,5.9,480.6,2
+INV0192,2025-08-20,Chennai,Member,Male,Coffee,Food & Beverages,2,830.93,Cash,9.1,1661.86,8
+INV0193,2025-08-17,Chennai,Member,Female,Shampoo,Personal Care,2,734.63,Credit Card,7.1,1469.26,8
+INV0194,2025-12-19,Chennai,Normal,Male,Detergent,Household,6,746.19,Debit Card,5.9,4477.14,12
+INV0195,2025-06-13,Chennai,Normal,Male,Oil,Food & Beverages,3,719.65,Debit Card,6.4,2158.95,6
+INV0196,2025-03-14,Chennai,Normal,Male,Headphones,Electronics,3,304.88,Cash,6.3,914.64,3
+INV0197,2025-05-16,Madurai,Member,Male,Charger,Electronics,1,693.37,UPI,7.6,693.37,5
+INV0198,2025-12-19,Madurai,Member,Male,Pen,Stationery,3,145.98,UPI,6.2,437.94,12
+INV0199,2025-03-11,Madurai,Member,Male,Cleaner,Household,2,598.79,Debit Card,5.6,1197.58,3
+INV0200,2025-07-15,Madurai,Member,Female,Headphones,Electronics,3,584.58,Cash,5.6,1753.74,7
+INV0201,2025-09-26,Chennai,Member,Female,Face Wash,Personal Care,5,42.5,Debit Card,7.9,212.5,9
+INV0202,2025-02-18,Madurai,Normal,Female,Shampoo,Personal Care,3,713.41,Credit Card,8.7,2140.23,2
+INV0203,2025-11-12,Chennai,Member,Female,Detergent,Household,2,814.86,Credit Card,6.6,1629.72,11
+INV0204,2025-05-10,Madurai,Member,Male,Dishwash Liquid,Household,6,255.33,Cash,5.2,1531.98,5
+INV0205,2025-01-05,Coimbatore,Member,Female,Soap,Personal Care,1,734.9,Cash,5.6,734.9,1
+INV0206,2025-01-27,Madurai,Member,Female,Soap,Personal Care,4,92.52,Credit Card,9.6,370.08,1
+INV0207,2025-06-09,Madurai,Member,Female,Coffee,Food & Beverages,3,547.97,UPI,7.5,1643.91,6
+INV0208,2025-05-29,Chennai,Normal,Male,Notebook,Stationery,7,447.37,Cash,7.3,3131.59,5
+INV0209,2025-09-21,Madurai,Member,Female,Shampoo,Personal Care,7,500.41,Credit Card,5.2,3502.87,9
+INV0210,2025-08-18,Coimbatore,Member,Male,Milk,Food & Beverages,2,835.06,Credit Card,8.6,1670.12,8
+INV0211,2025-07-19,Chennai,Member,Female,Oil,Food & Beverages,4,786.76,UPI,7.6,3147.04,7
+INV0212,2025-02-19,Chennai,Normal,Male,Notebook,Stationery,4,710.87,UPI,6.0,2843.48,2
+INV0213,2025-03-08,Madurai,Normal,Male,Marker,Stationery,5,260.85,UPI,5.6,1304.25,3
+INV0214,2025-10-27,Chennai,Normal,Female,Pen,Stationery,4,822.4,UPI,6.9,3289.6,10
+INV0215,2025-02-27,Chennai,Member,Male,Marker,Stationery,7,105.81,Debit Card,9.2,740.67,2
+INV0216,2025-09-16,Chennai,Normal,Male,Dishwash Liquid,Household,6,770.93,UPI,9.3,4625.58,9
+INV0217,2025-12-08,Chennai,Member,Female,Detergent,Household,2,308.78,Debit Card,8.0,617.56,12
+INV0218,2025-11-22,Chennai,Member,Female,Oil,Food & Beverages,2,67.32,Cash,8.6,134.64,11
+INV0219,2025-05-10,Chennai,Normal,Female,Headphones,Electronics,3,609.03,Credit Card,5.6,1827.09,5
+INV0220,2025-08-03,Coimbatore,Member,Male,Coffee,Food & Beverages,3,223.53,Debit Card,7.9,670.59,8
+INV0221,2025-06-21,Madurai,Member,Male,Pen,Stationery,3,234.34,Cash,8.3,703.02,6
+INV0222,2025-09-15,Coimbatore,Member,Male,Face Wash,Personal Care,7,289.32,Cash,6.0,2025.24,9
+INV0223,2025-04-12,Chennai,Normal,Female,Marker,Stationery,7,76.04,Debit Card,9.4,532.28,4
+INV0224,2025-07-28,Chennai,Member,Male,Headphones,Electronics,7,175.87,Cash,6.0,1231.09,7
+INV0225,2025-10-18,Madurai,Member,Male,Marker,Stationery,7,24.52,Cash,6.6,171.64,10
+INV0226,2025-12-20,Coimbatore,Normal,Male,Shampoo,Personal Care,7,411.96,Debit Card,8.1,2883.72,12
+INV0227,2025-10-13,Madurai,Member,Male,Pen,Stationery,7,94.14,Cash,8.2,658.98,10
+INV0228,2025-04-26,Coimbatore,Member,Male,Bulb,Electronics,6,620.73,UPI,8.5,3724.38,4
+INV0229,2025-09-21,Chennai,Normal,Male,Shampoo,Personal Care,7,227.35,UPI,5.6,1591.45,9
+INV0230,2025-05-30,Madurai,Member,Male,Dishwash Liquid,Household,4,850.35,Credit Card,9.2,3401.4,5
+INV0231,2025-10-27,Madurai,Member,Female,Oil,Food & Beverages,4,786.7,Cash,7.7,3146.8,10
+INV0232,2025-02-05,Chennai,Member,Female,Marker,Stationery,5,274.71,Credit Card,7.4,1373.55,2
+INV0233,2025-11-29,Madurai,Member,Female,Soap,Personal Care,6,709.23,UPI,9.9,4255.38,11
+INV0234,2025-10-14,Coimbatore,Member,Male,Bulb,Electronics,3,726.86,UPI,8.7,2180.58,10
+INV0235,2025-10-30,Coimbatore,Normal,Male,Charger,Electronics,1,888.18,UPI,5.6,888.18,10
+INV0236,2025-11-07,Coimbatore,Normal,Female,Detergent,Household,7,546.1,Cash,8.8,3822.7,11
+INV0237,2025-07-27,Coimbatore,Normal,Male,Oil,Food & Beverages,5,92.13,Cash,5.5,460.65,7
+INV0238,2025-04-16,Chennai,Normal,Female,Cleaner,Household,1,589.22,UPI,5.1,589.22,4
+INV0239,2025-06-07,Madurai,Member,Male,Marker,Stationery,4,569.98,Credit Card,7.0,2279.92,6
+INV0240,2025-05-01,Coimbatore,Member,Male,Rice,Food & Beverages,5,581.75,Credit Card,10.0,2908.75,5
+INV0241,2025-02-24,Chennai,Member,Female,Toothpaste,Personal Care,5,290.29,Debit Card,5.9,1451.45,2
+INV0242,2025-01-12,Madurai,Member,Female,Headphones,Electronics,2,776.52,UPI,8.4,1553.04,1
+INV0243,2025-05-25,Madurai,Member,Female,Marker,Stationery,4,864.34,Credit Card,5.9,3457.36,5
+INV0244,2025-05-16,Chennai,Normal,Female,Soap,Personal Care,4,211.59,UPI,8.6,846.36,5
+INV0245,2025-01-03,Chennai,Normal,Female,Dishwash Liquid,Household,6,97.57,Credit Card,7.5,585.42,1
+INV0246,2025-05-24,Coimbatore,Member,Male,Cleaner,Household,5,191.19,Debit Card,8.4,955.95,5
+INV0247,2025-01-30,Madurai,Member,Male,Milk,Food & Beverages,7,742.09,Debit Card,6.0,5194.63,1
+INV0248,2025-08-25,Madurai,Member,Male,Pen,Stationery,4,615.45,UPI,8.7,2461.8,8
+INV0249,2025-10-06,Chennai,Normal,Female,Shampoo,Personal Care,5,579.72,Credit Card,10.0,2898.6,10
+INV0250,2025-12-14,Madurai,Member,Female,Toothpaste,Personal Care,6,373.58,Cash,8.3,2241.48,12
+INV0251,2025-04-25,Coimbatore,Member,Female,Coffee,Food & Beverages,7,528.49,Debit Card,7.5,3699.43,4
+INV0252,2025-04-14,Madurai,Member,Female,Soap,Personal Care,6,290.93,UPI,9.6,1745.58,4
+INV0253,2025-04-28,Chennai,Normal,Female,Soap,Personal Care,2,439.94,UPI,5.1,879.88,4
+INV0254,2025-01-05,Chennai,Member,Female,Detergent,Household,7,717.9,Credit Card,8.6,5025.3,1
+INV0255,2025-12-26,Coimbatore,Normal,Male,Headphones,Electronics,5,883.49,UPI,9.4,4417.45,12
+INV0256,2025-09-05,Coimbatore,Normal,Male,Notebook,Stationery,4,840.59,Debit Card,5.3,3362.36,9
+INV0257,2025-12-30,Madurai,Normal,Male,Coffee,Food & Beverages,4,841.8,UPI,7.3,3367.2,12
+INV0258,2025-11-17,Madurai,Normal,Male,Soap,Personal Care,5,373.96,UPI,6.0,1869.8,11
+INV0259,2025-05-01,Chennai,Normal,Male,Bread,Food & Beverages,5,432.54,Cash,7.8,2162.7,5
+INV0260,2025-10-13,Coimbatore,Normal,Female,Bread,Food & Beverages,5,640.96,Cash,8.2,3204.8,10
+INV0261,2025-05-29,Coimbatore,Member,Female,Charger,Electronics,3,831.53,Debit Card,6.5,2494.59,5
+INV0262,2025-03-25,Coimbatore,Member,Female,Oil,Food & Beverages,7,144.95,Credit Card,7.3,1014.65,3
+INV0263,2025-08-19,Madurai,Member,Female,Headphones,Electronics,4,287.73,Cash,6.4,1150.92,8
+INV0264,2025-10-15,Coimbatore,Normal,Female,Marker,Stationery,7,142.54,Credit Card,6.8,997.78,10
+INV0265,2025-06-10,Chennai,Member,Female,Bread,Food & Beverages,6,558.57,Debit Card,5.8,3351.42,6
+INV0266,2025-09-29,Chennai,Normal,Male,Rice,Food & Beverages,4,289.54,Cash,9.4,1158.16,9
+INV0267,2025-02-07,Madurai,Normal,Female,Coffee,Food & Beverages,3,306.97,Credit Card,5.1,920.91,2
+INV0268,2025-08-14,Madurai,Normal,Female,Oil,Food & Beverages,5,82.41,Cash,9.4,412.05,8
+INV0269,2025-05-22,Coimbatore,Member,Female,Cleaner,Household,2,327.82,Debit Card,7.9,655.64,5
+INV0270,2025-10-19,Madurai,Normal,Female,Coffee,Food & Beverages,5,779.0,Debit Card,6.7,3895.0,10
+INV0271,2025-05-31,Chennai,Normal,Male,Headphones,Electronics,5,225.1,Cash,8.6,1125.5,5
+INV0272,2025-04-24,Coimbatore,Member,Male,Bread,Food & Beverages,3,631.76,Credit Card,7.5,1895.28,4
+INV0273,2025-08-25,Chennai,Member,Female,Headphones,Electronics,7,574.07,UPI,7.5,4018.49,8
+INV0274,2025-03-07,Coimbatore,Normal,Male,Charger,Electronics,4,779.87,UPI,5.6,3119.48,3
+INV0275,2025-12-27,Madurai,Normal,Male,Bulb,Electronics,5,136.41,Cash,6.9,682.05,12
+INV0276,2025-12-07,Coimbatore,Member,Female,Toothpaste,Personal Care,4,880.28,Credit Card,6.2,3521.12,12
+INV0277,2025-09-15,Coimbatore,Member,Female,Notebook,Stationery,1,532.71,UPI,5.1,532.71,9
+INV0278,2025-09-06,Chennai,Member,Female,Detergent,Household,6,896.02,Debit Card,6.8,5376.12,9
+INV0279,2025-11-27,Chennai,Normal,Female,Bulb,Electronics,7,822.13,Credit Card,5.4,5754.91,11
+INV0280,2025-11-19,Coimbatore,Member,Female,Notebook,Stationery,4,214.94,UPI,6.3,859.76,11
+INV0281,2025-06-29,Madurai,Member,Male,Oil,Food & Beverages,2,69.42,Credit Card,5.5,138.84,6
+INV0282,2025-07-09,Madurai,Member,Female,Pen,Stationery,6,244.96,Cash,5.5,1469.76,7
+INV0283,2025-06-03,Chennai,Normal,Female,Toothpaste,Personal Care,2,484.26,Credit Card,6.0,968.52,6
+INV0284,2025-07-15,Madurai,Member,Female,Soap,Personal Care,5,171.0,UPI,10.0,855.0,7
+INV0285,2025-11-07,Chennai,Member,Male,Cleaner,Household,6,167.36,Cash,5.0,1004.16,11
+INV0286,2025-09-19,Madurai,Member,Female,Marker,Stationery,4,427.08,Credit Card,8.2,1708.32,9
+INV0287,2025-05-23,Coimbatore,Member,Female,Dishwash Liquid,Household,6,49.28,Debit Card,5.7,295.68,5
+INV0288,2025-12-08,Chennai,Member,Female,Headphones,Electronics,5,127.26,UPI,9.6,636.3,12
+INV0289,2025-11-12,Chennai,Normal,Male,Shampoo,Personal Care,3,385.96,Cash,5.5,1157.88,11
+INV0290,2025-04-11,Coimbatore,Normal,Female,Headphones,Electronics,7,75.55,Credit Card,9.8,528.85,4
+INV0291,2025-09-01,Chennai,Normal,Female,Pen,Stationery,2,369.14,Debit Card,8.1,738.28,9
+INV0292,2025-01-12,Madurai,Member,Female,Pen,Stationery,5,437.13,UPI,5.0,2185.65,1
+INV0293,2025-08-27,Madurai,Normal,Male,Milk,Food & Beverages,3,417.11,Debit Card,9.5,1251.33,8
+INV0294,2025-02-18,Chennai,Normal,Female,Dishwash Liquid,Household,6,784.87,Credit Card,7.6,4709.22,2
+INV0295,2025-02-11,Madurai,Normal,Female,Soap,Personal Care,6,486.45,Credit Card,6.3,2918.7,2
+INV0296,2025-06-15,Chennai,Member,Female,Notebook,Stationery,5,431.82,Cash,8.8,2159.1,6
+INV0297,2025-03-23,Coimbatore,Member,Male,Detergent,Household,4,381.42,Debit Card,9.6,1525.68,3
+INV0298,2025-10-18,Chennai,Normal,Female,Coffee,Food & Beverages,6,739.51,Cash,7.4,4437.06,10
+INV0299,2025-06-07,Coimbatore,Normal,Female,Rice,Food & Beverages,4,807.65,UPI,6.6,3230.6,6
+INV0300,2025-08-04,Madurai,Member,Female,Pen,Stationery,4,770.85,Cash,8.9,3083.4,8
+INV0301,2025-06-07,Coimbatore,Member,Male,Bulb,Electronics,7,612.72,UPI,8.4,4289.04,6
+INV0302,2025-05-14,Madurai,Normal,Male,Detergent,Household,4,140.88,Credit Card,9.4,563.52,5
+INV0303,2025-03-08,Chennai,Member,Female,Charger,Electronics,1,263.65,Credit Card,8.5,263.65,3
+INV0304,2025-12-02,Madurai,Normal,Male,Dishwash Liquid,Household,7,60.54,Debit Card,6.2,423.78,12
+INV0305,2025-01-07,Chennai,Member,Male,Toothpaste,Personal Care,3,839.13,UPI,9.7,2517.39,1
+INV0306,2025-01-14,Chennai,Normal,Male,Detergent,Household,3,601.5,Credit Card,5.5,1804.5,1
+INV0307,2025-03-14,Coimbatore,Normal,Female,Pen,Stationery,6,676.8,Debit Card,6.3,4060.8,3
+INV0308,2025-06-12,Coimbatore,Member,Female,Charger,Electronics,6,294.18,Debit Card,7.6,1765.08,6
+INV0309,2025-03-07,Coimbatore,Normal,Male,Face Wash,Personal Care,4,764.18,Cash,7.8,3056.72,3
+INV0310,2025-12-13,Coimbatore,Normal,Male,Headphones,Electronics,7,248.45,Debit Card,5.1,1739.15,12
+INV0311,2025-05-10,Madurai,Normal,Male,Rice,Food & Beverages,7,21.45,Credit Card,8.9,150.15,5
+INV0312,2025-07-25,Madurai,Member,Female,Detergent,Household,1,351.25,Cash,6.8,351.25,7
+INV0313,2025-10-03,Madurai,Member,Female,Charger,Electronics,4,522.27,UPI,7.0,2089.08,10
+INV0314,2025-09-13,Chennai,Member,Male,Coffee,Food & Beverages,1,441.26,UPI,9.0,441.26,9
+INV0315,2025-09-23,Madurai,Normal,Male,Rice,Food & Beverages,4,778.63,Credit Card,6.9,3114.52,9
+INV0316,2025-01-25,Madurai,Member,Male,Oil,Food & Beverages,2,112.76,Credit Card,5.2,225.52,1
+INV0317,2025-10-08,Madurai,Normal,Male,Face Wash,Personal Care,2,507.36,Cash,5.9,1014.72,10
+INV0318,2025-09-10,Coimbatore,Normal,Female,Notebook,Stationery,5,471.42,Cash,9.8,2357.1,9
+INV0319,2025-11-06,Madurai,Member,Male,Marker,Stationery,4,267.63,Credit Card,5.4,1070.52,11
+INV0320,2025-10-16,Chennai,Member,Female,Pen,Stationery,7,743.56,Credit Card,6.8,5204.92,10
+INV0321,2025-06-13,Coimbatore,Normal,Male,Marker,Stationery,6,682.51,UPI,7.5,4095.06,6
+INV0322,2025-04-05,Chennai,Normal,Male,Headphones,Electronics,3,664.92,UPI,7.5,1994.76,4
+INV0323,2025-09-27,Madurai,Member,Male,Bulb,Electronics,5,791.05,UPI,5.0,3955.25,9
+INV0324,2025-11-17,Coimbatore,Member,Male,Detergent,Household,6,656.05,Credit Card,7.5,3936.3,11
+INV0325,2025-04-20,Chennai,Member,Male,Toothpaste,Personal Care,2,224.02,Debit Card,6.9,448.04,4
+INV0326,2025-12-02,Madurai,Normal,Female,Rice,Food & Beverages,4,640.9,Credit Card,9.9,2563.6,12
+INV0327,2025-11-06,Chennai,Normal,Male,Oil,Food & Beverages,5,290.78,Credit Card,5.8,1453.9,11
+INV0328,2025-08-26,Chennai,Normal,Male,Cleaner,Household,4,233.11,UPI,6.8,932.44,8
+INV0329,2025-01-25,Chennai,Normal,Male,Bread,Food & Beverages,2,84.24,Credit Card,7.1,168.48,1
+INV0330,2025-05-21,Madurai,Normal,Female,Charger,Electronics,5,674.75,Cash,7.0,3373.75,5
+INV0331,2025-04-27,Madurai,Member,Female,Headphones,Electronics,2,645.68,Credit Card,8.3,1291.36,4
+INV0332,2025-01-25,Chennai,Member,Female,Face Wash,Personal Care,1,226.36,Credit Card,6.1,226.36,1
+INV0333,2025-03-20,Coimbatore,Normal,Female,Charger,Electronics,2,679.45,Credit Card,6.1,1358.9,3
+INV0334,2025-03-09,Coimbatore,Normal,Male,Face Wash,Personal Care,7,827.7,Credit Card,8.6,5793.9,3
+INV0335,2025-06-22,Madurai,Member,Male,Face Wash,Personal Care,7,115.07,Debit Card,7.5,805.49,6
+INV0336,2025-01-12,Madurai,Member,Male,Headphones,Electronics,4,224.72,Credit Card,7.1,898.88,1
+INV0337,2025-10-15,Madurai,Member,Female,Coffee,Food & Beverages,3,680.23,Cash,5.8,2040.69,10
+INV0338,2025-05-08,Madurai,Member,Male,Dishwash Liquid,Household,2,261.57,Cash,5.9,523.14,5
+INV0339,2025-04-06,Madurai,Normal,Male,Rice,Food & Beverages,6,569.7,Credit Card,5.1,3418.2,4
+INV0340,2025-04-02,Coimbatore,Member,Female,Oil,Food & Beverages,7,91.42,UPI,5.5,639.94,4
+INV0341,2025-05-21,Madurai,Normal,Female,Headphones,Electronics,3,417.94,Debit Card,7.8,1253.82,5
+INV0342,2025-01-31,Chennai,Member,Female,Headphones,Electronics,1,670.4,Credit Card,9.5,670.4,1
+INV0343,2025-11-30,Chennai,Member,Male,Pen,Stationery,5,624.13,Credit Card,6.4,3120.65,11
+INV0344,2025-01-20,Coimbatore,Member,Male,Detergent,Household,5,737.26,Credit Card,6.6,3686.3,1
+INV0345,2025-05-26,Chennai,Normal,Female,Toothpaste,Personal Care,7,792.16,UPI,5.6,5545.12,5
+INV0346,2025-11-12,Coimbatore,Normal,Male,Marker,Stationery,3,700.4,UPI,6.9,2101.2,11
+INV0347,2025-06-09,Coimbatore,Member,Female,Milk,Food & Beverages,7,611.0,UPI,5.2,4277.0,6
+INV0348,2025-12-15,Chennai,Normal,Female,Face Wash,Personal Care,5,47.92,Debit Card,9.6,239.6,12
+INV0349,2025-02-12,Madurai,Normal,Male,Toothpaste,Personal Care,2,490.77,Cash,8.4,981.54,2
+INV0350,2025-09-11,Chennai,Member,Female,Notebook,Stationery,3,53.17,Debit Card,10.0,159.51,9
+INV0351,2025-05-10,Chennai,Member,Female,Rice,Food & Beverages,4,731.1,UPI,9.4,2924.4,5
+INV0352,2025-03-01,Coimbatore,Normal,Female,Face Wash,Personal Care,2,302.24,Cash,7.4,604.48,3
+INV0353,2025-05-31,Chennai,Normal,Male,Bread,Food & Beverages,2,514.94,Cash,7.6,1029.88,5
+INV0354,2025-10-14,Coimbatore,Normal,Female,Pen,Stationery,2,265.91,UPI,6.0,531.82,10
+INV0355,2025-01-05,Madurai,Member,Female,Bread,Food & Beverages,4,708.6,UPI,7.3,2834.4,1
+INV0356,2025-09-23,Madurai,Member,Female,Detergent,Household,1,800.12,Debit Card,9.5,800.12,9
+INV0357,2025-12-11,Madurai,Normal,Female,Notebook,Stationery,6,370.81,UPI,5.3,2224.86,12
+INV0358,2025-05-10,Chennai,Member,Female,Soap,Personal Care,7,779.37,Cash,9.3,5455.59,5
+INV0359,2025-09-24,Coimbatore,Member,Female,Cleaner,Household,5,255.03,Credit Card,6.7,1275.15,9
+INV0360,2025-06-27,Madurai,Normal,Female,Oil,Food & Beverages,7,490.5,UPI,9.5,3433.5,6
+INV0361,2025-09-10,Coimbatore,Normal,Male,Headphones,Electronics,3,775.71,UPI,9.7,2327.13,9
+INV0362,2025-02-25,Coimbatore,Member,Male,Marker,Stationery,1,306.78,Debit Card,8.4,306.78,2
+INV0363,2025-03-24,Madurai,Member,Female,Pen,Stationery,3,859.56,Debit Card,8.3,2578.68,3
+INV0364,2025-04-09,Madurai,Normal,Male,Detergent,Household,7,127.25,UPI,7.3,890.75,4
+INV0365,2025-05-29,Coimbatore,Member,Male,Notebook,Stationery,5,36.08,Cash,9.2,180.4,5
+INV0366,2025-11-25,Madurai,Member,Female,Pen,Stationery,4,815.64,Cash,9.8,3262.56,11
+INV0367,2025-06-05,Coimbatore,Normal,Male,Toothpaste,Personal Care,7,80.41,Credit Card,8.9,562.87,6
+INV0368,2025-07-09,Coimbatore,Normal,Female,Oil,Food & Beverages,2,892.86,UPI,8.1,1785.72,7
+INV0369,2025-09-20,Madurai,Member,Female,Rice,Food & Beverages,7,857.23,Debit Card,8.0,6000.61,9
+INV0370,2025-03-21,Chennai,Member,Female,Detergent,Household,2,140.58,Cash,9.2,281.16,3
+INV0371,2025-09-09,Madurai,Member,Female,Pen,Stationery,4,493.07,Credit Card,7.7,1972.28,9
+INV0372,2025-04-07,Chennai,Normal,Female,Rice,Food & Beverages,7,182.73,UPI,9.0,1279.11,4
+INV0373,2025-09-17,Coimbatore,Member,Male,Face Wash,Personal Care,1,396.78,Cash,7.5,396.78,9
+INV0374,2025-09-17,Coimbatore,Member,Female,Shampoo,Personal Care,1,74.05,UPI,5.3,74.05,9
+INV0375,2025-04-13,Chennai,Normal,Male,Shampoo,Personal Care,3,217.05,UPI,6.9,651.15,4
+INV0376,2025-02-09,Coimbatore,Normal,Female,Cleaner,Household,4,339.68,Cash,7.2,1358.72,2
+INV0377,2025-09-30,Chennai,Member,Female,Face Wash,Personal Care,1,406.01,Cash,5.7,406.01,9
+INV0378,2025-04-11,Chennai,Normal,Female,Coffee,Food & Beverages,7,880.2,Cash,5.5,6161.4,4
+INV0379,2025-12-25,Coimbatore,Normal,Male,Pen,Stationery,4,730.92,UPI,7.7,2923.68,12
+INV0380,2025-11-04,Chennai,Member,Female,Detergent,Household,5,668.92,UPI,5.4,3344.6,11
+INV0381,2025-08-09,Madurai,Normal,Female,Oil,Food & Beverages,2,492.6,Credit Card,6.5,985.2,8
+INV0382,2025-11-04,Madurai,Normal,Female,Pen,Stationery,7,759.2,Debit Card,8.7,5314.4,11
+INV0383,2025-05-04,Coimbatore,Member,Female,Toothpaste,Personal Care,2,318.6,UPI,9.8,637.2,5
+INV0384,2025-08-19,Coimbatore,Normal,Male,Cleaner,Household,2,643.83,Debit Card,8.6,1287.66,8
+INV0385,2025-06-27,Chennai,Member,Female,Charger,Electronics,4,894.53,Cash,10.0,3578.12,6
+INV0386,2025-03-04,Chennai,Member,Male,Shampoo,Personal Care,4,296.87,UPI,8.5,1187.48,3
+INV0387,2025-04-26,Chennai,Normal,Female,Shampoo,Personal Care,3,613.14,Credit Card,6.5,1839.42,4
+INV0388,2025-07-10,Chennai,Normal,Male,Cleaner,Household,2,763.0,Credit Card,8.4,1526.0,7
+INV0389,2025-03-03,Madurai,Normal,Male,Face Wash,Personal Care,3,825.91,Debit Card,8.5,2477.73,3
+INV0390,2025-09-13,Madurai,Member,Female,Rice,Food & Beverages,2,651.78,Cash,6.9,1303.56,9
+INV0391,2025-01-07,Coimbatore,Normal,Female,Charger,Electronics,3,269.57,Debit Card,5.1,808.71,1
+INV0392,2025-06-04,Chennai,Member,Male,Toothpaste,Personal Care,3,307.13,Cash,8.5,921.39,6
+INV0393,2025-04-02,Chennai,Normal,Female,Oil,Food & Beverages,5,38.27,Credit Card,5.1,191.35,4
+INV0394,2025-01-14,Coimbatore,Normal,Female,Pen,Stationery,3,689.58,Debit Card,8.2,2068.74,1
+INV0395,2025-08-17,Chennai,Normal,Female,Milk,Food & Beverages,4,57.61,Credit Card,5.8,230.44,8
+INV0396,2025-03-27,Chennai,Member,Male,Coffee,Food & Beverages,3,780.89,Credit Card,7.8,2342.67,3
+INV0397,2025-05-13,Chennai,Normal,Female,Headphones,Electronics,2,124.42,Cash,7.5,248.84,5
+INV0398,2025-07-02,Chennai,Normal,Female,Shampoo,Personal Care,3,171.25,Debit Card,5.1,513.75,7
+INV0399,2025-03-03,Chennai,Member,Female,Pen,Stationery,1,439.34,Debit Card,6.8,439.34,3
+INV0400,2025-08-07,Coimbatore,Member,Male,Pen,Stationery,6,669.33,Credit Card,8.0,4015.98,8
+INV0401,2025-09-03,Chennai,Normal,Female,Cleaner,Household,2,142.32,Credit Card,9.2,284.64,9
+INV0402,2025-08-18,Coimbatore,Normal,Male,Cleaner,Household,1,407.26,Cash,9.4,407.26,8
+INV0403,2025-03-20,Chennai,Normal,Female,Bread,Food & Beverages,2,444.91,UPI,7.4,889.82,3
+INV0404,2025-05-29,Madurai,Member,Male,Headphones,Electronics,4,206.81,UPI,8.6,827.24,5
+INV0405,2025-05-18,Madurai,Member,Female,Cleaner,Household,6,121.69,Credit Card,6.6,730.14,5
+INV0406,2025-11-10,Madurai,Member,Female,Detergent,Household,6,756.05,UPI,6.7,4536.3,11
+INV0407,2025-03-06,Madurai,Member,Male,Soap,Personal Care,4,462.17,UPI,6.0,1848.68,3
+INV0408,2025-01-13,Coimbatore,Normal,Male,Toothpaste,Personal Care,6,32.66,UPI,7.8,195.96,1
+INV0409,2025-08-01,Coimbatore,Member,Male,Detergent,Household,4,726.62,UPI,6.6,2906.48,8
+INV0410,2025-08-30,Chennai,Member,Female,Pen,Stationery,1,883.1,Credit Card,5.4,883.1,8
+INV0411,2025-08-01,Madurai,Member,Female,Charger,Electronics,5,553.22,UPI,8.4,2766.1,8
+INV0412,2025-06-30,Coimbatore,Normal,Female,Pen,Stationery,2,463.26,UPI,8.5,926.52,6
+INV0413,2025-12-04,Chennai,Normal,Female,Pen,Stationery,4,793.01,Cash,6.8,3172.04,12
+INV0414,2025-06-22,Chennai,Member,Male,Oil,Food & Beverages,2,858.21,Credit Card,5.4,1716.42,6
+INV0415,2025-06-09,Coimbatore,Member,Female,Coffee,Food & Beverages,1,683.99,Debit Card,7.1,683.99,6
+INV0416,2025-06-13,Madurai,Normal,Female,Shampoo,Personal Care,5,412.0,Debit Card,7.2,2060.0,6
+INV0417,2025-07-07,Chennai,Normal,Female,Soap,Personal Care,1,541.15,Cash,8.3,541.15,7
+INV0418,2025-07-10,Madurai,Normal,Female,Soap,Personal Care,6,636.82,Cash,6.6,3820.92,7
+INV0419,2025-11-04,Madurai,Normal,Female,Detergent,Household,2,190.96,Credit Card,8.4,381.92,11
+INV0420,2025-09-13,Madurai,Normal,Female,Soap,Personal Care,7,413.54,Debit Card,9.4,2894.78,9
+INV0421,2025-07-02,Chennai,Normal,Female,Bread,Food & Beverages,5,750.24,UPI,6.2,3751.2,7
+INV0422,2025-04-27,Madurai,Normal,Male,Notebook,Stationery,6,596.16,Cash,9.9,3576.96,4
+INV0423,2025-10-09,Chennai,Normal,Female,Face Wash,Personal Care,5,381.86,Debit Card,6.9,1909.3,10
+INV0424,2025-07-15,Madurai,Member,Female,Rice,Food & Beverages,6,603.76,Credit Card,6.3,3622.56,7
+INV0425,2025-02-03,Chennai,Member,Female,Detergent,Household,1,124.04,UPI,7.1,124.04,2
+INV0426,2025-02-21,Madurai,Member,Female,Bulb,Electronics,4,373.32,Credit Card,5.5,1493.28,2
+INV0427,2025-04-22,Coimbatore,Member,Male,Face Wash,Personal Care,2,717.95,Cash,5.6,1435.9,4
+INV0428,2025-09-09,Madurai,Member,Male,Soap,Personal Care,3,214.05,Debit Card,7.1,642.15,9
+INV0429,2025-03-23,Madurai,Member,Male,Shampoo,Personal Care,3,183.65,Debit Card,8.8,550.95,3
+INV0430,2025-08-20,Chennai,Normal,Male,Cleaner,Household,1,856.72,Debit Card,9.5,856.72,8
+INV0431,2025-08-15,Chennai,Normal,Male,Cleaner,Household,2,204.71,Debit Card,8.3,409.42,8
+INV0432,2025-08-21,Madurai,Member,Male,Cleaner,Household,2,249.61,UPI,5.5,499.22,8
+INV0433,2025-08-09,Coimbatore,Member,Female,Headphones,Electronics,1,873.26,UPI,8.4,873.26,8
+INV0434,2025-02-11,Coimbatore,Normal,Male,Shampoo,Personal Care,2,666.54,Credit Card,8.2,1333.08,2
+INV0435,2025-01-21,Chennai,Normal,Male,Cleaner,Household,4,635.64,UPI,9.0,2542.56,1
+INV0436,2025-02-11,Coimbatore,Normal,Female,Oil,Food & Beverages,1,770.58,Cash,9.1,770.58,2
+INV0437,2025-04-23,Madurai,Member,Male,Charger,Electronics,4,121.92,Cash,9.3,487.68,4
+INV0438,2025-04-15,Chennai,Normal,Female,Rice,Food & Beverages,2,641.24,Debit Card,7.1,1282.48,4
+INV0439,2025-07-11,Madurai,Member,Female,Shampoo,Personal Care,1,463.25,Cash,8.5,463.25,7
+INV0440,2025-01-17,Chennai,Member,Male,Headphones,Electronics,2,749.65,Credit Card,6.3,1499.3,1
+INV0441,2025-04-30,Chennai,Normal,Female,Oil,Food & Beverages,1,467.16,UPI,10.0,467.16,4
+INV0442,2025-05-09,Chennai,Normal,Male,Headphones,Electronics,2,565.81,UPI,5.9,1131.62,5
+INV0443,2025-05-10,Chennai,Member,Male,Charger,Electronics,4,440.41,UPI,5.1,1761.64,5
+INV0444,2025-03-01,Coimbatore,Normal,Female,Detergent,Household,7,440.78,Cash,5.7,3085.46,3
+INV0445,2025-02-17,Madurai,Normal,Female,Pen,Stationery,4,695.81,UPI,8.9,2783.24,2
+INV0446,2025-01-29,Madurai,Member,Male,Bulb,Electronics,2,573.14,Debit Card,7.2,1146.28,1
+INV0447,2025-04-07,Madurai,Normal,Female,Toothpaste,Personal Care,1,577.27,Debit Card,7.2,577.27,4
+INV0448,2025-01-10,Chennai,Member,Female,Coffee,Food & Beverages,3,416.25,Debit Card,9.8,1248.75,1
+INV0449,2025-08-30,Coimbatore,Member,Male,Dishwash Liquid,Household,4,487.38,Cash,9.6,1949.52,8
+INV0450,2025-11-10,Madurai,Normal,Male,Oil,Food & Beverages,4,676.23,UPI,6.6,2704.92,11
+INV0451,2025-08-20,Coimbatore,Member,Female,Charger,Electronics,6,746.83,Cash,6.0,4480.98,8
+INV0452,2025-10-04,Chennai,Member,Male,Toothpaste,Personal Care,3,632.97,UPI,9.2,1898.91,10
+INV0453,2025-10-11,Madurai,Normal,Male,Detergent,Household,2,833.18,Credit Card,9.5,1666.36,10
+INV0454,2025-07-22,Coimbatore,Normal,Male,Notebook,Stationery,7,741.89,Credit Card,7.7,5193.23,7
+INV0455,2025-09-04,Chennai,Normal,Male,Oil,Food & Beverages,1,514.44,Cash,8.1,514.44,9
+INV0456,2025-10-17,Coimbatore,Member,Male,Pen,Stationery,6,610.84,Debit Card,6.3,3665.04,10
+INV0457,2025-09-21,Madurai,Member,Male,Charger,Electronics,2,835.15,Cash,9.0,1670.3,9
+INV0458,2025-08-02,Madurai,Normal,Male,Dishwash Liquid,Household,5,564.87,Debit Card,8.2,2824.35,8
+INV0459,2025-07-19,Chennai,Member,Female,Bread,Food & Beverages,7,745.83,UPI,7.5,5220.81,7
+INV0460,2025-03-20,Chennai,Normal,Male,Cleaner,Household,4,626.15,Debit Card,5.3,2504.6,3
+INV0461,2025-12-09,Chennai,Normal,Female,Marker,Stationery,5,505.7,Debit Card,9.6,2528.5,12
+INV0462,2025-12-10,Coimbatore,Member,Female,Face Wash,Personal Care,4,232.82,UPI,8.1,931.28,12
+INV0463,2025-06-22,Coimbatore,Normal,Female,Bulb,Electronics,4,394.88,Credit Card,6.0,1579.52,6
+INV0464,2025-03-10,Coimbatore,Member,Male,Bulb,Electronics,5,871.61,UPI,8.0,4358.05,3
+INV0465,2025-03-28,Chennai,Member,Male,Bread,Food & Beverages,7,598.83,Cash,8.4,4191.81,3
+INV0466,2025-04-11,Madurai,Normal,Female,Milk,Food & Beverages,5,516.67,Cash,7.6,2583.35,4
+INV0467,2025-01-08,Madurai,Member,Male,Dishwash Liquid,Household,2,841.0,Cash,8.6,1682.0,1
+INV0468,2025-11-29,Coimbatore,Normal,Female,Detergent,Household,6,536.13,Cash,7.9,3216.78,11
+INV0469,2025-07-19,Coimbatore,Member,Male,Headphones,Electronics,6,482.95,Cash,9.7,2897.7,7
+INV0470,2025-03-28,Madurai,Member,Male,Shampoo,Personal Care,5,688.19,Credit Card,5.3,3440.95,3
+INV0471,2025-02-12,Madurai,Member,Female,Bulb,Electronics,2,647.15,Credit Card,5.5,1294.3,2
+INV0472,2025-04-19,Coimbatore,Normal,Female,Headphones,Electronics,6,189.98,Debit Card,5.9,1139.88,4
+INV0473,2025-06-01,Coimbatore,Member,Female,Headphones,Electronics,2,434.75,Cash,8.5,869.5,6
+INV0474,2025-01-17,Madurai,Normal,Male,Bulb,Electronics,2,435.81,UPI,8.2,871.62,1
+INV0475,2025-05-13,Chennai,Member,Female,Milk,Food & Beverages,4,352.84,Cash,9.5,1411.36,5
+INV0476,2025-05-28,Coimbatore,Member,Male,Pen,Stationery,6,475.22,Credit Card,8.7,2851.32,5
+INV0477,2025-10-04,Madurai,Normal,Male,Cleaner,Household,6,383.53,Cash,7.5,2301.18,10
+INV0478,2025-08-20,Madurai,Normal,Male,Headphones,Electronics,4,195.42,Credit Card,10.0,781.68,8
+INV0479,2025-11-10,Madurai,Normal,Female,Cleaner,Household,5,382.88,Debit Card,6.3,1914.4,11
+INV0480,2025-08-16,Madurai,Normal,Female,Milk,Food & Beverages,4,83.6,Debit Card,9.2,334.4,8
+INV0481,2025-05-19,Chennai,Normal,Female,Soap,Personal Care,6,526.69,Debit Card,7.1,3160.14,5
+INV0482,2025-07-30,Madurai,Member,Male,Face Wash,Personal Care,6,771.22,Credit Card,8.2,4627.32,7
+INV0483,2025-01-28,Coimbatore,Member,Male,Soap,Personal Care,7,658.25,Cash,8.6,4607.75,1
+INV0484,2025-02-20,Chennai,Normal,Female,Face Wash,Personal Care,5,337.15,Cash,8.2,1685.75,2
+INV0485,2025-09-18,Madurai,Member,Male,Oil,Food & Beverages,4,96.62,UPI,5.7,386.48,9
+INV0486,2025-09-18,Chennai,Member,Male,Rice,Food & Beverages,1,197.89,Credit Card,7.2,197.89,9
+INV0487,2025-12-16,Coimbatore,Member,Female,Bread,Food & Beverages,1,500.03,UPI,7.8,500.03,12
+INV0488,2025-12-18,Madurai,Normal,Female,Dishwash Liquid,Household,5,202.21,Debit Card,9.2,1011.05,12
+INV0489,2025-01-08,Coimbatore,Member,Female,Oil,Food & Beverages,4,498.7,Cash,7.2,1994.8,1
+INV0490,2025-11-16,Madurai,Member,Male,Charger,Electronics,4,223.81,Credit Card,9.6,895.24,11
+INV0491,2025-05-18,Madurai,Member,Male,Marker,Stationery,2,767.05,UPI,7.2,1534.1,5
+INV0492,2025-02-07,Madurai,Normal,Male,Milk,Food & Beverages,6,369.6,UPI,7.7,2217.6,2
+INV0493,2025-04-21,Madurai,Member,Male,Bulb,Electronics,3,236.08,UPI,9.0,708.24,4
+INV0494,2025-08-08,Madurai,Member,Male,Detergent,Household,7,734.85,Cash,7.9,5143.95,8
+INV0495,2025-12-03,Chennai,Normal,Female,Headphones,Electronics,5,321.7,Cash,9.8,1608.5,12
+INV0496,2025-08-11,Madurai,Normal,Male,Detergent,Household,3,118.11,Cash,8.3,354.33,8
+INV0497,2025-05-16,Madurai,Member,Male,Pen,Stationery,3,521.96,Credit Card,7.6,1565.88,5
+INV0498,2025-09-13,Chennai,Member,Male,Charger,Electronics,5,531.78,Cash,5.1,2658.9,9
+INV0499,2025-12-26,Chennai,Normal,Female,Detergent,Household,4,648.93,Credit Card,7.1,2595.72,12
+INV0500,2025-11-25,Chennai,Normal,Female,Notebook,Stationery,5,231.39,UPI,6.5,1156.95,11
+INV0501,2025-02-18,Chennai,Normal,Female,Cleaner,Household,3,410.52,UPI,8.7,1231.56,2
+INV0502,2025-10-19,Chennai,Normal,Male,Shampoo,Personal Care,6,268.48,Debit Card,6.0,1610.88,10
+INV0503,2025-11-20,Chennai,Normal,Female,Headphones,Electronics,7,91.24,Cash,6.0,638.68,11
+INV0504,2025-03-19,Madurai,Normal,Female,Pen,Stationery,7,791.42,UPI,5.9,5539.94,3
+INV0505,2025-04-15,Madurai,Normal,Female,Milk,Food & Beverages,6,661.41,Cash,5.6,3968.46,4
+INV0506,2025-06-18,Coimbatore,Member,Male,Detergent,Household,6,285.29,Credit Card,6.6,1711.74,6
+INV0507,2025-08-05,Madurai,Normal,Female,Rice,Food & Beverages,4,547.45,UPI,9.4,2189.8,8
+INV0508,2025-04-29,Madurai,Normal,Male,Rice,Food & Beverages,1,197.11,Cash,8.9,197.11,4
+INV0509,2025-07-09,Chennai,Member,Male,Milk,Food & Beverages,5,803.41,UPI,8.7,4017.05,7
+INV0510,2025-09-12,Chennai,Normal,Female,Marker,Stationery,7,121.12,UPI,9.0,847.84,9
+INV0511,2025-09-23,Madurai,Normal,Male,Dishwash Liquid,Household,6,23.38,Cash,6.3,140.28,9
+INV0512,2025-05-29,Coimbatore,Member,Female,Cleaner,Household,5,461.77,UPI,9.4,2308.85,5
+INV0513,2025-06-13,Chennai,Normal,Male,Dishwash Liquid,Household,7,533.15,UPI,5.7,3732.05,6
+INV0514,2025-05-20,Madurai,Member,Female,Bulb,Electronics,6,529.49,UPI,6.7,3176.94,5
+INV0515,2025-12-13,Madurai,Member,Female,Notebook,Stationery,7,67.97,UPI,7.9,475.79,12
+INV0516,2025-09-15,Coimbatore,Member,Female,Charger,Electronics,4,296.36,Credit Card,5.5,1185.44,9
+INV0517,2025-09-26,Coimbatore,Member,Male,Detergent,Household,1,459.3,UPI,8.7,459.3,9
+INV0518,2025-06-30,Chennai,Normal,Female,Rice,Food & Beverages,1,210.59,Debit Card,6.9,210.59,6
+INV0519,2025-06-09,Coimbatore,Member,Male,Notebook,Stationery,6,787.91,UPI,8.9,4727.46,6
+INV0520,2025-12-17,Madurai,Member,Female,Cleaner,Household,7,96.66,Cash,7.5,676.62,12
+INV0521,2025-10-15,Madurai,Normal,Male,Coffee,Food & Beverages,4,448.9,Debit Card,5.9,1795.6,10
+INV0522,2025-10-15,Coimbatore,Member,Male,Shampoo,Personal Care,2,628.45,Credit Card,8.7,1256.9,10
+INV0523,2025-08-14,Coimbatore,Member,Female,Marker,Stationery,5,250.34,Debit Card,6.3,1251.7,8
+INV0524,2025-01-11,Coimbatore,Member,Female,Soap,Personal Care,5,569.33,Debit Card,7.5,2846.65,1
+INV0525,2025-01-10,Coimbatore,Member,Female,Marker,Stationery,3,749.86,Debit Card,5.4,2249.58,1
+INV0526,2025-09-28,Chennai,Normal,Female,Headphones,Electronics,4,187.5,Cash,8.1,750.0,9
+INV0527,2025-09-30,Coimbatore,Member,Female,Bulb,Electronics,7,827.15,Cash,8.3,5790.05,9
+INV0528,2025-07-02,Chennai,Normal,Male,Notebook,Stationery,3,507.13,Cash,6.9,1521.39,7
+INV0529,2025-06-02,Madurai,Normal,Female,Marker,Stationery,6,283.32,Credit Card,9.8,1699.92,6
+INV0530,2025-11-11,Coimbatore,Member,Female,Headphones,Electronics,7,399.16,Cash,9.4,2794.12,11
+INV0531,2025-11-30,Chennai,Member,Male,Toothpaste,Personal Care,3,294.73,Cash,8.5,884.19,11
+INV0532,2025-05-04,Coimbatore,Member,Female,Cleaner,Household,1,658.1,Debit Card,8.6,658.1,5
+INV0533,2025-04-24,Madurai,Member,Female,Charger,Electronics,5,720.74,Cash,6.3,3603.7,4
+INV0534,2025-10-05,Madurai,Normal,Male,Cleaner,Household,7,752.98,UPI,8.3,5270.86,10
+INV0535,2025-08-01,Madurai,Normal,Female,Marker,Stationery,3,887.48,Cash,6.0,2662.44,8
+INV0536,2025-06-21,Coimbatore,Normal,Female,Face Wash,Personal Care,1,716.33,Credit Card,5.7,716.33,6
+INV0537,2025-10-15,Coimbatore,Member,Female,Shampoo,Personal Care,4,549.22,Credit Card,10.0,2196.88,10
+INV0538,2025-06-23,Chennai,Normal,Male,Dishwash Liquid,Household,3,318.51,UPI,8.1,955.53,6
+INV0539,2025-04-23,Madurai,Member,Female,Pen,Stationery,6,499.24,Credit Card,7.2,2995.44,4
+INV0540,2025-05-02,Coimbatore,Member,Male,Soap,Personal Care,6,56.14,Credit Card,6.4,336.84,5
+INV0541,2025-02-01,Madurai,Member,Female,Coffee,Food & Beverages,6,675.45,Debit Card,8.0,4052.7,2
+INV0542,2025-08-10,Madurai,Member,Male,Detergent,Household,7,412.44,UPI,5.2,2887.08,8
+INV0543,2025-04-29,Chennai,Member,Female,Marker,Stationery,5,37.62,Debit Card,5.5,188.1,4
+INV0544,2025-02-08,Chennai,Normal,Male,Soap,Personal Care,3,75.01,Debit Card,5.2,225.03,2
+INV0545,2025-09-25,Chennai,Normal,Male,Bulb,Electronics,4,360.97,Cash,7.5,1443.88,9
+INV0546,2025-08-21,Chennai,Member,Male,Soap,Personal Care,3,533.41,UPI,8.0,1600.23,8
+INV0547,2025-01-18,Madurai,Normal,Male,Detergent,Household,5,428.5,Cash,5.3,2142.5,1
+INV0548,2025-05-29,Chennai,Member,Male,Bread,Food & Beverages,1,564.9,Cash,8.6,564.9,5
+INV0549,2025-05-29,Chennai,Member,Male,Oil,Food & Beverages,5,442.66,Debit Card,6.2,2213.3,5
+INV0550,2025-05-06,Chennai,Member,Female,Pen,Stationery,6,602.3,Credit Card,8.4,3613.8,5
+INV0551,2025-10-29,Chennai,Normal,Female,Charger,Electronics,7,212.83,UPI,9.9,1489.81,10
+INV0552,2025-12-26,Madurai,Member,Male,Rice,Food & Beverages,1,119.3,Credit Card,8.5,119.3,12
+INV0553,2025-08-26,Chennai,Member,Male,Cleaner,Household,7,544.86,Debit Card,9.4,3814.02,8
+INV0554,2025-05-15,Madurai,Normal,Male,Marker,Stationery,6,446.53,Debit Card,9.7,2679.18,5
+INV0555,2025-05-31,Coimbatore,Normal,Male,Oil,Food & Beverages,2,43.64,Debit Card,7.4,87.28,5
+INV0556,2025-08-24,Madurai,Normal,Female,Milk,Food & Beverages,5,354.82,Debit Card,8.5,1774.1,8
+INV0557,2025-08-12,Madurai,Member,Male,Headphones,Electronics,5,113.39,Debit Card,9.3,566.95,8
+INV0558,2025-07-22,Chennai,Member,Female,Pen,Stationery,4,487.59,Debit Card,6.8,1950.36,7
+INV0559,2025-09-13,Coimbatore,Normal,Female,Bread,Food & Beverages,3,368.28,Credit Card,6.3,1104.84,9
+INV0560,2025-03-27,Coimbatore,Member,Male,Headphones,Electronics,1,559.57,Cash,9.7,559.57,3
+INV0561,2025-05-30,Coimbatore,Normal,Male,Toothpaste,Personal Care,7,728.93,Credit Card,8.6,5102.51,5
+INV0562,2025-08-23,Coimbatore,Normal,Female,Toothpaste,Personal Care,1,283.71,UPI,6.1,283.71,8
+INV0563,2025-12-11,Madurai,Member,Female,Toothpaste,Personal Care,4,866.65,Credit Card,7.2,3466.6,12
+INV0564,2025-01-22,Coimbatore,Member,Male,Toothpaste,Personal Care,4,491.36,Debit Card,9.0,1965.44,1
+INV0565,2025-12-14,Madurai,Normal,Male,Bread,Food & Beverages,7,564.1,Credit Card,7.7,3948.7,12
+INV0566,2025-10-12,Madurai,Normal,Male,Cleaner,Household,3,618.99,Cash,8.2,1856.97,10
+INV0567,2025-09-26,Madurai,Normal,Female,Dishwash Liquid,Household,7,606.72,UPI,8.8,4247.04,9
+INV0568,2025-09-15,Coimbatore,Normal,Female,Coffee,Food & Beverages,7,469.65,Credit Card,8.1,3287.55,9
+INV0569,2025-01-29,Chennai,Member,Male,Notebook,Stationery,6,397.31,Cash,7.7,2383.86,1
+INV0570,2025-08-01,Chennai,Normal,Female,Oil,Food & Beverages,3,67.33,Credit Card,8.7,201.99,8
+INV0571,2025-10-10,Coimbatore,Normal,Female,Dishwash Liquid,Household,5,39.44,UPI,8.6,197.2,10
+INV0572,2025-02-19,Chennai,Normal,Male,Face Wash,Personal Care,6,335.01,Credit Card,8.1,2010.06,2
+INV0573,2025-04-05,Chennai,Member,Male,Soap,Personal Care,2,313.62,Debit Card,6.8,627.24,4
+INV0574,2025-03-29,Madurai,Member,Female,Rice,Food & Beverages,3,361.17,Credit Card,7.0,1083.51,3
+INV0575,2025-02-13,Madurai,Normal,Female,Headphones,Electronics,4,141.76,Cash,9.9,567.04,2
+INV0576,2025-10-05,Coimbatore,Member,Male,Coffee,Food & Beverages,6,669.59,Credit Card,5.6,4017.54,10
+INV0577,2025-06-20,Coimbatore,Member,Male,Bulb,Electronics,3,774.13,Cash,6.3,2322.39,6
+INV0578,2025-07-08,Chennai,Member,Male,Notebook,Stationery,1,846.07,UPI,7.5,846.07,7
+INV0579,2025-12-19,Madurai,Normal,Male,Oil,Food & Beverages,7,453.28,Credit Card,9.2,3172.96,12
+INV0580,2025-07-03,Coimbatore,Normal,Male,Cleaner,Household,2,636.76,UPI,5.8,1273.52,7
+INV0581,2025-01-03,Coimbatore,Member,Female,Dishwash Liquid,Household,5,772.88,UPI,6.4,3864.4,1
+INV0582,2025-07-10,Coimbatore,Normal,Female,Notebook,Stationery,7,388.1,Credit Card,5.3,2716.7,7
+INV0583,2025-04-28,Coimbatore,Normal,Female,Notebook,Stationery,1,292.28,Cash,8.5,292.28,4
+INV0584,2025-01-19,Coimbatore,Member,Female,Dishwash Liquid,Household,1,844.32,UPI,6.2,844.32,1
+INV0585,2025-01-23,Coimbatore,Member,Male,Bread,Food & Beverages,2,473.8,UPI,6.9,947.6,1
+INV0586,2025-01-30,Chennai,Normal,Male,Shampoo,Personal Care,5,457.58,Credit Card,7.2,2287.9,1
+INV0587,2025-10-22,Madurai,Member,Male,Headphones,Electronics,4,177.01,Credit Card,9.5,708.04,10
+INV0588,2025-04-18,Madurai,Normal,Female,Shampoo,Personal Care,6,115.18,Credit Card,7.1,691.08,4
+INV0589,2025-10-08,Coimbatore,Normal,Female,Cleaner,Household,5,761.05,Credit Card,5.7,3805.25,10
+INV0590,2025-05-08,Madurai,Member,Female,Headphones,Electronics,3,560.44,Credit Card,7.6,1681.32,5
+INV0591,2025-08-17,Madurai,Normal,Male,Marker,Stationery,1,306.73,Debit Card,9.8,306.73,8
+INV0592,2025-04-21,Madurai,Normal,Female,Dishwash Liquid,Household,3,188.73,Credit Card,8.0,566.19,4
+INV0593,2025-05-16,Coimbatore,Member,Male,Toothpaste,Personal Care,4,508.84,Cash,9.9,2035.36,5
+INV0594,2025-12-28,Coimbatore,Member,Male,Face Wash,Personal Care,3,533.85,UPI,9.2,1601.55,12
+INV0595,2025-07-05,Madurai,Member,Male,Coffee,Food & Beverages,5,202.15,Cash,5.2,1010.75,7
+INV0596,2025-05-24,Madurai,Normal,Male,Toothpaste,Personal Care,3,769.24,Cash,8.3,2307.72,5
+INV0597,2025-03-13,Coimbatore,Member,Male,Notebook,Stationery,4,94.15,Debit Card,6.4,376.6,3
+INV0598,2025-05-09,Chennai,Member,Male,Bread,Food & Beverages,4,333.36,Credit Card,7.8,1333.44,5
+INV0599,2025-12-30,Madurai,Member,Female,Cleaner,Household,4,618.74,UPI,6.4,2474.96,12
+INV0600,2025-09-18,Chennai,Member,Male,Pen,Stationery,5,261.23,Cash,6.7,1306.15,9
+INV0601,2025-01-03,Madurai,Normal,Male,Oil,Food & Beverages,4,748.35,Credit Card,9.6,2993.4,1
+INV0602,2025-04-14,Chennai,Normal,Female,Cleaner,Household,1,671.08,Credit Card,6.0,671.08,4
+INV0603,2025-08-12,Chennai,Member,Male,Coffee,Food & Beverages,7,714.34,Debit Card,9.4,5000.38,8
+INV0604,2025-11-16,Chennai,Normal,Female,Toothpaste,Personal Care,4,124.81,Debit Card,5.2,499.24,11
+INV0605,2025-12-28,Coimbatore,Member,Female,Detergent,Household,3,143.68,Debit Card,5.5,431.04,12
+INV0606,2025-12-20,Chennai,Member,Female,Pen,Stationery,6,272.1,UPI,9.3,1632.6,12
+INV0607,2025-01-10,Chennai,Normal,Male,Toothpaste,Personal Care,3,475.91,Cash,8.2,1427.73,1
+INV0608,2025-10-29,Chennai,Normal,Male,Toothpaste,Personal Care,6,678.25,Debit Card,8.7,4069.5,10
+INV0609,2025-08-19,Madurai,Member,Female,Oil,Food & Beverages,3,756.15,Debit Card,6.0,2268.45,8
+INV0610,2025-08-07,Chennai,Member,Male,Detergent,Household,5,639.82,Debit Card,7.7,3199.1,8
+INV0611,2025-03-07,Madurai,Normal,Male,Detergent,Household,3,837.17,Cash,8.7,2511.51,3
+INV0612,2025-04-22,Chennai,Member,Female,Charger,Electronics,5,670.09,Cash,8.1,3350.45,4
+INV0613,2025-01-13,Chennai,Normal,Female,Soap,Personal Care,5,289.52,Debit Card,7.4,1447.6,1
+INV0614,2025-03-27,Coimbatore,Member,Male,Marker,Stationery,4,253.27,Debit Card,9.8,1013.08,3
+INV0615,2025-08-22,Madurai,Member,Female,Toothpaste,Personal Care,1,632.65,Credit Card,8.4,632.65,8
+INV0616,2025-03-31,Chennai,Normal,Female,Toothpaste,Personal Care,6,189.73,Debit Card,9.5,1138.38,3
+INV0617,2025-11-10,Madurai,Normal,Female,Headphones,Electronics,4,101.59,UPI,8.6,406.36,11
+INV0618,2025-02-23,Madurai,Normal,Male,Pen,Stationery,4,488.36,UPI,8.7,1953.44,2
+INV0619,2025-01-12,Coimbatore,Normal,Male,Milk,Food & Beverages,7,743.04,Debit Card,5.4,5201.28,1
+INV0620,2025-07-28,Coimbatore,Normal,Male,Marker,Stationery,5,109.21,Cash,6.8,546.05,7
+INV0621,2025-01-14,Coimbatore,Normal,Female,Charger,Electronics,5,716.86,Credit Card,9.3,3584.3,1
+INV0622,2025-05-01,Coimbatore,Normal,Male,Headphones,Electronics,6,734.18,Cash,6.2,4405.08,5
+INV0623,2025-01-20,Coimbatore,Member,Female,Shampoo,Personal Care,3,444.4,Debit Card,5.6,1333.2,1
+INV0624,2025-03-16,Coimbatore,Member,Male,Dishwash Liquid,Household,3,70.43,UPI,6.6,211.29,3
+INV0625,2025-08-31,Coimbatore,Member,Male,Milk,Food & Beverages,4,173.64,Credit Card,6.1,694.56,8
+INV0626,2025-08-11,Coimbatore,Normal,Female,Detergent,Household,2,642.54,Cash,9.6,1285.08,8
+INV0627,2025-03-11,Chennai,Normal,Male,Milk,Food & Beverages,2,646.36,Cash,9.3,1292.72,3
+INV0628,2025-11-08,Madurai,Normal,Female,Notebook,Stationery,3,810.55,Debit Card,7.5,2431.65,11
+INV0629,2025-07-30,Coimbatore,Member,Male,Bread,Food & Beverages,2,532.76,Credit Card,5.3,1065.52,7
+INV0630,2025-04-11,Coimbatore,Normal,Male,Charger,Electronics,7,129.21,UPI,8.6,904.47,4
+INV0631,2025-07-05,Madurai,Normal,Female,Soap,Personal Care,3,126.85,Debit Card,8.1,380.55,7
+INV0632,2025-05-12,Chennai,Member,Female,Pen,Stationery,5,654.6,Credit Card,9.9,3273.0,5
+INV0633,2025-04-21,Madurai,Normal,Female,Marker,Stationery,4,181.73,Cash,7.8,726.92,4
+INV0634,2025-05-12,Madurai,Member,Male,Face Wash,Personal Care,1,308.98,Debit Card,6.7,308.98,5
+INV0635,2025-01-20,Coimbatore,Member,Male,Pen,Stationery,4,448.75,Cash,7.6,1795.0,1
+INV0636,2025-01-24,Madurai,Normal,Male,Headphones,Electronics,3,41.79,Cash,9.9,125.37,1
+INV0637,2025-08-15,Madurai,Normal,Female,Soap,Personal Care,7,238.96,Debit Card,8.5,1672.72,8
+INV0638,2025-06-03,Coimbatore,Normal,Female,Notebook,Stationery,3,378.94,Debit Card,8.4,1136.82,6
+INV0639,2025-10-20,Coimbatore,Member,Female,Face Wash,Personal Care,4,266.08,Debit Card,6.2,1064.32,10
+INV0640,2025-08-18,Coimbatore,Member,Male,Pen,Stationery,7,140.01,Debit Card,8.7,980.07,8
+INV0641,2025-11-06,Coimbatore,Member,Male,Marker,Stationery,7,660.65,Debit Card,8.8,4624.55,11
+INV0642,2025-12-25,Madurai,Normal,Female,Bread,Food & Beverages,7,735.57,Cash,6.6,5148.99,12
+INV0643,2025-07-21,Madurai,Normal,Male,Face Wash,Personal Care,6,246.58,UPI,7.4,1479.48,7
+INV0644,2025-02-07,Chennai,Normal,Female,Notebook,Stationery,3,701.49,UPI,6.5,2104.47,2
+INV0645,2025-09-17,Chennai,Normal,Male,Marker,Stationery,2,359.29,Debit Card,6.3,718.58,9
+INV0646,2025-07-07,Madurai,Member,Male,Soap,Personal Care,2,465.88,Cash,5.1,931.76,7
+INV0647,2025-02-26,Chennai,Member,Female,Milk,Food & Beverages,3,773.28,UPI,6.4,2319.84,2
+INV0648,2025-01-20,Madurai,Member,Male,Pen,Stationery,3,679.96,UPI,7.8,2039.88,1
+INV0649,2025-09-30,Chennai,Member,Male,Shampoo,Personal Care,6,728.5,UPI,5.0,4371.0,9
+INV0650,2025-04-29,Coimbatore,Normal,Female,Face Wash,Personal Care,2,140.42,Cash,6.4,280.84,4
+INV0651,2025-03-12,Chennai,Normal,Female,Detergent,Household,3,81.35,Debit Card,9.4,244.05,3
+INV0652,2025-01-04,Coimbatore,Normal,Male,Detergent,Household,3,806.2,Debit Card,8.0,2418.6,1
+INV0653,2025-08-09,Coimbatore,Member,Female,Bulb,Electronics,6,361.29,Debit Card,8.0,2167.74,8
+INV0654,2025-01-14,Coimbatore,Member,Male,Soap,Personal Care,6,273.33,Credit Card,7.0,1639.98,1
+INV0655,2025-01-03,Coimbatore,Normal,Female,Marker,Stationery,4,657.73,Credit Card,8.4,2630.92,1
+INV0656,2025-08-04,Chennai,Normal,Male,Detergent,Household,6,756.05,Credit Card,5.9,4536.3,8
+INV0657,2025-08-17,Madurai,Member,Male,Cleaner,Household,1,778.99,Cash,9.1,778.99,8
+INV0658,2025-12-02,Coimbatore,Normal,Female,Dishwash Liquid,Household,2,298.08,UPI,5.6,596.16,12
+INV0659,2025-07-05,Chennai,Member,Male,Toothpaste,Personal Care,4,769.95,UPI,8.3,3079.8,7
+INV0660,2025-02-24,Coimbatore,Member,Male,Notebook,Stationery,1,56.02,Cash,6.7,56.02,2
+INV0661,2025-09-11,Chennai,Member,Female,Face Wash,Personal Care,3,63.7,Cash,8.7,191.1,9
+INV0662,2025-01-24,Chennai,Normal,Female,Bulb,Electronics,3,568.7,Debit Card,7.7,1706.1,1
+INV0663,2025-06-11,Chennai,Normal,Male,Cleaner,Household,4,75.53,Debit Card,7.3,302.12,6
+INV0664,2025-06-07,Madurai,Member,Female,Bread,Food & Beverages,6,305.66,Credit Card,5.8,1833.96,6
+INV0665,2025-03-23,Chennai,Normal,Female,Marker,Stationery,7,612.03,Credit Card,8.2,4284.21,3
+INV0666,2025-06-08,Chennai,Member,Male,Soap,Personal Care,7,316.79,Cash,9.9,2217.53,6
+INV0667,2025-07-07,Madurai,Member,Male,Shampoo,Personal Care,3,178.05,Credit Card,9.1,534.15,7
+INV0668,2025-03-01,Madurai,Member,Female,Notebook,Stationery,7,267.59,UPI,5.3,1873.13,3
+INV0669,2025-11-01,Chennai,Member,Female,Rice,Food & Beverages,5,422.67,Cash,6.9,2113.35,11
+INV0670,2025-11-15,Madurai,Normal,Female,Rice,Food & Beverages,4,438.34,Cash,9.6,1753.36,11
+INV0671,2025-07-30,Coimbatore,Member,Male,Marker,Stationery,1,709.04,UPI,7.5,709.04,7
+INV0672,2025-06-01,Coimbatore,Member,Male,Soap,Personal Care,4,680.13,Debit Card,8.3,2720.52,6
+INV0673,2025-04-19,Madurai,Normal,Male,Cleaner,Household,2,422.0,Debit Card,9.6,844.0,4
+INV0674,2025-03-17,Madurai,Member,Male,Soap,Personal Care,6,764.19,UPI,9.4,4585.14,3
+INV0675,2025-01-30,Chennai,Member,Male,Bulb,Electronics,6,120.53,UPI,7.5,723.18,1
+INV0676,2025-11-10,Madurai,Normal,Male,Face Wash,Personal Care,4,244.71,Credit Card,7.2,978.84,11
+INV0677,2025-04-27,Chennai,Normal,Male,Detergent,Household,3,748.62,Cash,6.7,2245.86,4
+INV0678,2025-12-22,Coimbatore,Normal,Female,Bulb,Electronics,3,352.63,Credit Card,8.6,1057.89,12
+INV0679,2025-07-11,Madurai,Member,Female,Detergent,Household,5,883.44,UPI,6.4,4417.2,7
+INV0680,2025-01-19,Chennai,Normal,Male,Notebook,Stationery,5,430.3,Credit Card,6.2,2151.5,1
+INV0681,2025-06-22,Chennai,Normal,Male,Soap,Personal Care,6,716.9,UPI,6.8,4301.4,6
+INV0682,2025-08-16,Coimbatore,Member,Male,Coffee,Food & Beverages,5,374.03,Credit Card,5.9,1870.15,8
+INV0683,2025-12-16,Madurai,Member,Female,Cleaner,Household,1,393.96,Credit Card,8.5,393.96,12
+INV0684,2025-07-02,Coimbatore,Member,Male,Notebook,Stationery,5,356.94,Debit Card,8.1,1784.7,7
+INV0685,2025-04-23,Chennai,Member,Female,Pen,Stationery,1,652.79,UPI,7.4,652.79,4
+INV0686,2025-07-02,Chennai,Member,Female,Milk,Food & Beverages,5,501.82,Credit Card,7.0,2509.1,7
+INV0687,2025-05-26,Madurai,Normal,Female,Coffee,Food & Beverages,6,850.52,Cash,9.5,5103.12,5
+INV0688,2025-11-15,Chennai,Normal,Female,Dishwash Liquid,Household,6,240.78,Credit Card,5.1,1444.68,11
+INV0689,2025-04-26,Madurai,Normal,Female,Oil,Food & Beverages,1,108.5,Credit Card,8.8,108.5,4
+INV0690,2025-04-23,Coimbatore,Member,Male,Toothpaste,Personal Care,4,366.07,Cash,9.5,1464.28,4
+INV0691,2025-09-08,Madurai,Member,Male,Face Wash,Personal Care,6,562.71,UPI,7.2,3376.26,9
+INV0692,2025-09-08,Madurai,Member,Female,Milk,Food & Beverages,4,777.5,Debit Card,7.8,3110.0,9
+INV0693,2025-10-30,Chennai,Normal,Male,Pen,Stationery,3,324.65,Debit Card,9.7,973.95,10
+INV0694,2025-11-09,Chennai,Normal,Female,Toothpaste,Personal Care,1,595.33,Debit Card,6.1,595.33,11
+INV0695,2025-04-28,Madurai,Member,Female,Marker,Stationery,7,328.17,Cash,7.6,2297.19,4
+INV0696,2025-10-28,Chennai,Normal,Male,Bread,Food & Beverages,6,563.15,Credit Card,7.4,3378.9,10
+INV0697,2025-06-10,Chennai,Member,Male,Toothpaste,Personal Care,2,798.63,UPI,6.3,1597.26,6
+INV0698,2025-07-17,Chennai,Normal,Male,Pen,Stationery,3,223.59,Credit Card,9.1,670.77,7
+INV0699,2025-09-17,Madurai,Normal,Male,Bulb,Electronics,4,375.73,Debit Card,9.5,1502.92,9
+INV0700,2025-05-28,Chennai,Normal,Male,Dishwash Liquid,Household,6,894.07,Credit Card,8.9,5364.42,5
+INV0701,2025-08-28,Madurai,Member,Female,Dishwash Liquid,Household,1,784.33,Cash,6.0,784.33,8
+INV0702,2025-02-16,Chennai,Normal,Male,Bread,Food & Beverages,7,516.88,Cash,5.4,3618.16,2
+INV0703,2025-07-17,Coimbatore,Normal,Male,Headphones,Electronics,5,474.63,UPI,8.0,2373.15,7
+INV0704,2025-02-16,Chennai,Member,Male,Toothpaste,Personal Care,7,270.45,UPI,5.3,1893.15,2
+INV0705,2025-03-19,Chennai,Normal,Female,Marker,Stationery,2,475.14,Debit Card,8.4,950.28,3
+INV0706,2025-05-04,Madurai,Member,Male,Toothpaste,Personal Care,4,766.4,UPI,7.7,3065.6,5
+INV0707,2025-03-16,Madurai,Member,Female,Bulb,Electronics,3,622.95,Credit Card,8.3,1868.85,3
+INV0708,2025-12-25,Chennai,Member,Male,Coffee,Food & Beverages,7,275.24,Cash,8.0,1926.68,12
+INV0709,2025-05-17,Coimbatore,Member,Male,Pen,Stationery,1,197.29,Cash,7.1,197.29,5
+INV0710,2025-03-31,Chennai,Member,Female,Oil,Food & Beverages,2,253.38,Cash,6.0,506.76,3
+INV0711,2025-11-21,Chennai,Normal,Male,Soap,Personal Care,1,169.39,UPI,6.5,169.39,11
+INV0712,2025-03-02,Coimbatore,Member,Male,Pen,Stationery,6,104.16,Cash,7.6,624.96,3
+INV0713,2025-05-18,Madurai,Member,Female,Charger,Electronics,5,388.84,Cash,8.3,1944.2,5
+INV0714,2025-02-19,Chennai,Member,Male,Toothpaste,Personal Care,3,119.7,Cash,8.9,359.1,2
+INV0715,2025-09-16,Madurai,Member,Female,Dishwash Liquid,Household,1,171.28,Debit Card,8.8,171.28,9
+INV0716,2025-04-17,Madurai,Normal,Female,Shampoo,Personal Care,4,501.65,Debit Card,9.9,2006.6,4
+INV0717,2025-04-23,Coimbatore,Member,Female,Cleaner,Household,6,164.85,UPI,6.4,989.1,4
+INV0718,2025-12-16,Coimbatore,Normal,Female,Notebook,Stationery,6,76.21,Cash,5.4,457.26,12
+INV0719,2025-09-11,Madurai,Member,Female,Face Wash,Personal Care,3,299.3,UPI,6.7,897.9,9
+INV0720,2025-04-28,Chennai,Normal,Male,Cleaner,Household,6,213.88,Cash,8.7,1283.28,4
+INV0721,2025-07-17,Madurai,Member,Male,Headphones,Electronics,4,473.47,Cash,7.2,1893.88,7
+INV0722,2025-12-03,Chennai,Member,Male,Oil,Food & Beverages,1,110.08,Cash,9.1,110.08,12
+INV0723,2025-12-31,Chennai,Normal,Female,Notebook,Stationery,3,681.56,UPI,7.7,2044.68,12
+INV0724,2025-02-20,Coimbatore,Member,Female,Bulb,Electronics,6,817.49,UPI,9.6,4904.94,2
+INV0725,2025-09-02,Chennai,Normal,Female,Milk,Food & Beverages,6,674.22,Cash,9.7,4045.32,9
+INV0726,2025-02-04,Chennai,Member,Female,Coffee,Food & Beverages,4,488.89,Credit Card,5.3,1955.56,2
+INV0727,2025-10-29,Madurai,Normal,Male,Notebook,Stationery,5,777.39,UPI,7.3,3886.95,10
+INV0728,2025-03-10,Coimbatore,Member,Male,Bread,Food & Beverages,5,631.53,Debit Card,8.0,3157.65,3
+INV0729,2025-12-15,Chennai,Member,Female,Pen,Stationery,7,29.28,UPI,6.3,204.96,12
+INV0730,2025-11-16,Chennai,Normal,Female,Face Wash,Personal Care,6,366.8,Cash,7.0,2200.8,11
+INV0731,2025-02-18,Coimbatore,Member,Male,Shampoo,Personal Care,1,768.84,Credit Card,8.4,768.84,2
+INV0732,2025-03-15,Madurai,Member,Female,Notebook,Stationery,3,324.36,Cash,6.1,973.08,3
+INV0733,2025-07-11,Coimbatore,Member,Female,Oil,Food & Beverages,6,50.99,Debit Card,8.0,305.94,7
+INV0734,2025-09-18,Coimbatore,Member,Female,Rice,Food & Beverages,2,676.64,UPI,8.5,1353.28,9
+INV0735,2025-12-22,Chennai,Member,Male,Coffee,Food & Beverages,3,725.79,UPI,5.5,2177.37,12
+INV0736,2025-03-11,Chennai,Member,Male,Bulb,Electronics,7,161.32,Cash,7.5,1129.24,3
+INV0737,2025-03-31,Madurai,Normal,Female,Soap,Personal Care,5,492.86,Cash,6.3,2464.3,3
+INV0738,2025-09-17,Chennai,Normal,Male,Notebook,Stationery,6,188.92,Debit Card,8.6,1133.52,9
+INV0739,2025-05-06,Chennai,Normal,Female,Dishwash Liquid,Household,4,652.93,Credit Card,5.9,2611.72,5
+INV0740,2025-08-19,Coimbatore,Member,Female,Dishwash Liquid,Household,2,258.96,Debit Card,9.5,517.92,8
+INV0741,2025-10-22,Chennai,Normal,Male,Pen,Stationery,6,298.27,Credit Card,7.2,1789.62,10
+INV0742,2025-05-09,Madurai,Member,Female,Coffee,Food & Beverages,7,763.57,UPI,6.0,5344.99,5
+INV0743,2025-10-07,Coimbatore,Member,Female,Bulb,Electronics,1,439.16,Credit Card,7.2,439.16,10
+INV0744,2025-11-09,Madurai,Member,Male,Headphones,Electronics,2,609.38,Credit Card,7.0,1218.76,11
+INV0745,2025-04-10,Coimbatore,Member,Female,Marker,Stationery,7,374.09,UPI,7.1,2618.63,4
+INV0746,2025-11-22,Chennai,Normal,Female,Pen,Stationery,6,282.25,UPI,7.9,1693.5,11
+INV0747,2025-10-24,Coimbatore,Member,Female,Toothpaste,Personal Care,1,570.42,UPI,7.6,570.42,10
+INV0748,2025-07-01,Coimbatore,Normal,Male,Soap,Personal Care,2,156.27,Debit Card,5.7,312.54,7
+INV0749,2025-06-23,Chennai,Member,Female,Soap,Personal Care,1,348.24,UPI,5.3,348.24,6
+INV0750,2025-11-12,Chennai,Normal,Male,Milk,Food & Beverages,1,203.95,Cash,8.6,203.95,11
+INV0751,2025-12-30,Madurai,Normal,Female,Dishwash Liquid,Household,2,632.3,UPI,7.8,1264.6,12
+INV0752,2025-07-07,Madurai,Normal,Female,Notebook,Stationery,2,850.9,UPI,6.8,1701.8,7
+INV0753,2025-02-26,Chennai,Normal,Female,Rice,Food & Beverages,1,896.05,UPI,9.0,896.05,2
+INV0754,2025-01-31,Chennai,Normal,Female,Dishwash Liquid,Household,7,416.24,Credit Card,6.9,2913.68,1
+INV0755,2025-03-25,Chennai,Normal,Male,Oil,Food & Beverages,5,242.23,Debit Card,9.0,1211.15,3
+INV0756,2025-06-01,Coimbatore,Member,Male,Dishwash Liquid,Household,2,409.69,UPI,6.5,819.38,6
+INV0757,2025-02-05,Coimbatore,Normal,Female,Dishwash Liquid,Household,6,765.6,Debit Card,5.4,4593.6,2
+INV0758,2025-08-01,Coimbatore,Member,Female,Shampoo,Personal Care,3,201.28,Cash,9.7,603.84,8
+INV0759,2025-12-30,Chennai,Normal,Female,Bread,Food & Beverages,4,857.84,Cash,7.0,3431.36,12
+INV0760,2025-04-16,Madurai,Member,Female,Dishwash Liquid,Household,1,320.84,UPI,9.0,320.84,4
+INV0761,2025-12-08,Chennai,Normal,Female,Notebook,Stationery,1,887.51,Cash,6.4,887.51,12
+INV0762,2025-08-08,Coimbatore,Normal,Female,Rice,Food & Beverages,4,757.98,Debit Card,8.2,3031.92,8
+INV0763,2025-06-12,Coimbatore,Member,Female,Charger,Electronics,5,731.54,Credit Card,9.4,3657.7,6
+INV0764,2025-08-08,Chennai,Normal,Female,Pen,Stationery,4,299.76,UPI,5.2,1199.04,8
+INV0765,2025-09-27,Chennai,Normal,Male,Detergent,Household,2,27.72,Cash,9.2,55.44,9
+INV0766,2025-04-30,Coimbatore,Normal,Male,Cleaner,Household,4,356.28,Debit Card,7.9,1425.12,4
+INV0767,2025-12-02,Coimbatore,Member,Male,Headphones,Electronics,1,285.59,Debit Card,8.0,285.59,12
+INV0768,2025-07-01,Coimbatore,Normal,Female,Bread,Food & Beverages,4,52.91,Cash,7.6,211.64,7
+INV0769,2025-04-16,Chennai,Member,Female,Milk,Food & Beverages,3,464.72,Debit Card,9.4,1394.16,4
+INV0770,2025-08-05,Coimbatore,Normal,Female,Charger,Electronics,6,374.67,Debit Card,5.2,2248.02,8
+INV0771,2025-07-24,Coimbatore,Normal,Male,Rice,Food & Beverages,2,578.41,UPI,6.3,1156.82,7
+INV0772,2025-03-11,Madurai,Member,Female,Marker,Stationery,4,566.64,Debit Card,9.4,2266.56,3
+INV0773,2025-02-13,Chennai,Normal,Male,Dishwash Liquid,Household,1,126.26,Cash,8.8,126.26,2
+INV0774,2025-11-25,Madurai,Normal,Female,Bulb,Electronics,7,879.73,UPI,5.1,6158.11,11
+INV0775,2025-10-28,Madurai,Member,Male,Detergent,Household,6,184.5,Cash,7.6,1107.0,10
+INV0776,2025-08-16,Coimbatore,Normal,Male,Shampoo,Personal Care,2,411.84,Credit Card,7.6,823.68,8
+INV0777,2025-07-03,Chennai,Member,Male,Notebook,Stationery,1,449.54,Cash,7.0,449.54,7
+INV0778,2025-04-17,Coimbatore,Member,Female,Headphones,Electronics,5,735.5,Cash,6.5,3677.5,4
+INV0779,2025-03-25,Chennai,Member,Male,Notebook,Stationery,3,107.32,UPI,8.4,321.96,3
+INV0780,2025-12-04,Madurai,Normal,Female,Face Wash,Personal Care,5,397.21,Debit Card,6.0,1986.05,12
+INV0781,2025-09-07,Chennai,Member,Female,Pen,Stationery,3,573.08,Cash,9.0,1719.24,9
+INV0782,2025-12-29,Coimbatore,Member,Female,Marker,Stationery,4,209.34,UPI,9.0,837.36,12
+INV0783,2025-01-21,Coimbatore,Normal,Female,Toothpaste,Personal Care,2,572.17,Credit Card,7.1,1144.34,1
+INV0784,2025-07-15,Coimbatore,Member,Female,Face Wash,Personal Care,4,832.83,UPI,6.4,3331.32,7
+INV0785,2025-06-27,Chennai,Normal,Male,Detergent,Household,3,897.82,UPI,6.4,2693.46,6
+INV0786,2025-01-07,Madurai,Normal,Female,Notebook,Stationery,3,48.56,Debit Card,7.4,145.68,1
+INV0787,2025-03-11,Madurai,Normal,Female,Detergent,Household,3,227.32,Cash,8.6,681.96,3
+INV0788,2025-05-07,Chennai,Normal,Female,Cleaner,Household,6,293.07,Credit Card,6.8,1758.42,5
+INV0789,2025-06-09,Coimbatore,Member,Female,Oil,Food & Beverages,1,371.23,UPI,8.1,371.23,6
+INV0790,2025-09-05,Madurai,Member,Female,Detergent,Household,2,233.19,Cash,6.9,466.38,9
+INV0791,2025-07-22,Coimbatore,Member,Male,Oil,Food & Beverages,4,199.07,Cash,6.5,796.28,7
+INV0792,2025-05-28,Chennai,Member,Male,Face Wash,Personal Care,4,860.01,UPI,5.1,3440.04,5
+INV0793,2025-05-23,Coimbatore,Member,Female,Dishwash Liquid,Household,5,828.3,Cash,5.0,4141.5,5
+INV0794,2025-07-18,Madurai,Normal,Male,Bulb,Electronics,3,61.35,UPI,6.1,184.05,7
+INV0795,2025-06-03,Madurai,Member,Male,Marker,Stationery,7,318.16,UPI,7.0,2227.12,6
+INV0796,2025-05-22,Coimbatore,Member,Female,Pen,Stationery,3,376.53,UPI,9.3,1129.59,5
+INV0797,2025-11-09,Chennai,Member,Male,Bread,Food & Beverages,3,230.33,Credit Card,9.0,690.99,11
+INV0798,2025-06-14,Coimbatore,Normal,Female,Shampoo,Personal Care,7,573.41,UPI,6.3,4013.87,6
+INV0799,2025-11-10,Chennai,Normal,Male,Detergent,Household,4,583.54,Debit Card,6.2,2334.16,11
+INV0800,2025-01-21,Coimbatore,Member,Male,Face Wash,Personal Care,5,768.44,Cash,6.1,3842.2,1
+INV0801,2025-03-23,Madurai,Normal,Male,Shampoo,Personal Care,1,671.96,Credit Card,6.7,671.96,3
+INV0802,2025-03-10,Chennai,Member,Female,Notebook,Stationery,7,497.46,Cash,7.5,3482.22,3
+INV0803,2025-05-11,Chennai,Member,Male,Bulb,Electronics,6,595.16,Credit Card,7.2,3570.96,5
+INV0804,2025-03-28,Chennai,Normal,Male,Face Wash,Personal Care,2,261.11,Debit Card,6.1,522.22,3
+INV0805,2025-08-06,Madurai,Normal,Female,Pen,Stationery,7,541.89,Credit Card,5.7,3793.23,8
+INV0806,2025-11-01,Coimbatore,Member,Female,Detergent,Household,1,450.52,Credit Card,5.1,450.52,11
+INV0807,2025-12-11,Madurai,Member,Male,Rice,Food & Beverages,4,137.34,Credit Card,5.8,549.36,12
+INV0808,2025-12-07,Chennai,Normal,Female,Face Wash,Personal Care,6,233.44,Cash,8.5,1400.64,12
+INV0809,2025-06-10,Coimbatore,Member,Male,Marker,Stationery,6,276.69,UPI,6.2,1660.14,6
+INV0810,2025-06-27,Madurai,Normal,Male,Dishwash Liquid,Household,6,833.39,Cash,7.3,5000.34,6
+INV0811,2025-04-27,Chennai,Member,Female,Soap,Personal Care,3,222.74,UPI,8.0,668.22,4
+INV0812,2025-07-15,Chennai,Normal,Female,Toothpaste,Personal Care,2,274.53,Cash,9.4,549.06,7
+INV0813,2025-11-23,Madurai,Member,Female,Bulb,Electronics,4,345.03,Debit Card,9.4,1380.12,11
+INV0814,2025-03-27,Madurai,Member,Male,Notebook,Stationery,4,604.09,Debit Card,8.7,2416.36,3
+INV0815,2025-10-16,Madurai,Normal,Female,Charger,Electronics,6,124.05,Credit Card,5.2,744.3,10
+INV0816,2025-03-22,Chennai,Member,Male,Bulb,Electronics,4,859.47,Debit Card,7.9,3437.88,3
+INV0817,2025-06-01,Madurai,Member,Female,Coffee,Food & Beverages,2,781.7,Credit Card,8.9,1563.4,6
+INV0818,2025-03-02,Chennai,Normal,Male,Milk,Food & Beverages,2,527.95,UPI,5.1,1055.9,3
+INV0819,2025-03-02,Madurai,Member,Female,Milk,Food & Beverages,5,613.15,Debit Card,7.7,3065.75,3
+INV0820,2025-12-20,Chennai,Member,Male,Dishwash Liquid,Household,7,34.66,UPI,9.3,242.62,12
+INV0821,2025-01-28,Chennai,Member,Female,Shampoo,Personal Care,7,318.27,Cash,7.4,2227.89,1
+INV0822,2025-02-12,Coimbatore,Normal,Male,Marker,Stationery,5,720.18,UPI,5.0,3600.9,2
+INV0823,2025-06-18,Madurai,Normal,Female,Detergent,Household,1,88.19,Cash,5.1,88.19,6
+INV0824,2025-03-27,Madurai,Normal,Female,Bulb,Electronics,7,268.44,UPI,7.1,1879.08,3
+INV0825,2025-06-26,Chennai,Member,Male,Marker,Stationery,2,535.06,UPI,5.8,1070.12,6
+INV0826,2025-01-17,Chennai,Member,Female,Bread,Food & Beverages,2,245.64,Debit Card,8.3,491.28,1
+INV0827,2025-04-08,Chennai,Member,Male,Dishwash Liquid,Household,7,841.9,UPI,8.5,5893.3,4
+INV0828,2025-07-17,Coimbatore,Member,Male,Shampoo,Personal Care,2,135.33,Debit Card,5.9,270.66,7
+INV0829,2025-04-08,Coimbatore,Normal,Female,Soap,Personal Care,5,721.71,Debit Card,9.4,3608.55,4
+INV0830,2025-03-06,Chennai,Member,Male,Headphones,Electronics,6,466.99,Credit Card,7.2,2801.94,3
+INV0831,2025-11-26,Madurai,Member,Female,Detergent,Household,6,680.29,Credit Card,5.7,4081.74,11
+INV0832,2025-12-07,Madurai,Member,Female,Oil,Food & Beverages,4,293.43,Cash,8.8,1173.72,12
+INV0833,2025-01-05,Coimbatore,Normal,Male,Marker,Stationery,6,472.75,UPI,8.9,2836.5,1
+INV0834,2025-01-02,Coimbatore,Member,Female,Charger,Electronics,3,774.02,Cash,8.2,2322.06,1
+INV0835,2025-01-22,Chennai,Member,Male,Charger,Electronics,5,430.85,UPI,9.3,2154.25,1
+INV0836,2025-04-22,Madurai,Member,Male,Cleaner,Household,2,336.55,Credit Card,8.7,673.1,4
+INV0837,2025-02-26,Chennai,Member,Female,Detergent,Household,7,491.82,Credit Card,9.4,3442.74,2
+INV0838,2025-03-07,Coimbatore,Member,Female,Headphones,Electronics,6,651.28,UPI,7.2,3907.68,3
+INV0839,2025-11-26,Madurai,Normal,Male,Marker,Stationery,5,410.34,UPI,8.7,2051.7,11
+INV0840,2025-04-08,Madurai,Member,Male,Marker,Stationery,6,846.21,Credit Card,10.0,5077.26,4
+INV0841,2025-05-24,Coimbatore,Member,Female,Charger,Electronics,1,279.55,Credit Card,8.6,279.55,5
+INV0842,2025-05-05,Chennai,Member,Female,Detergent,Household,2,438.41,Cash,5.6,876.82,5
+INV0843,2025-06-16,Chennai,Member,Female,Marker,Stationery,1,686.1,Credit Card,7.6,686.1,6
+INV0844,2025-03-27,Madurai,Member,Female,Detergent,Household,2,626.43,UPI,7.9,1252.86,3
+INV0845,2025-03-17,Coimbatore,Member,Male,Face Wash,Personal Care,5,780.0,Cash,5.9,3900.0,3
+INV0846,2025-12-10,Madurai,Member,Female,Soap,Personal Care,4,897.19,UPI,9.8,3588.76,12
+INV0847,2025-10-21,Coimbatore,Member,Male,Detergent,Household,6,395.64,Debit Card,5.9,2373.84,10
+INV0848,2025-02-28,Chennai,Member,Male,Coffee,Food & Beverages,6,117.81,Cash,5.9,706.86,2
+INV0849,2025-05-18,Coimbatore,Member,Female,Toothpaste,Personal Care,3,46.77,UPI,9.6,140.31,5
+INV0850,2025-04-09,Chennai,Normal,Male,Bulb,Electronics,7,659.65,Credit Card,7.3,4617.55,4
+INV0851,2025-07-11,Coimbatore,Normal,Female,Charger,Electronics,1,789.13,Debit Card,5.3,789.13,7
+INV0852,2025-08-31,Madurai,Normal,Male,Rice,Food & Beverages,6,214.23,UPI,8.0,1285.38,8
+INV0853,2025-11-15,Chennai,Normal,Female,Notebook,Stationery,5,159.43,Cash,8.0,797.15,11
+INV0854,2025-02-18,Madurai,Member,Male,Dishwash Liquid,Household,4,74.74,UPI,5.3,298.96,2
+INV0855,2025-02-01,Madurai,Normal,Male,Face Wash,Personal Care,7,743.98,Debit Card,9.9,5207.86,2
+INV0856,2025-10-04,Chennai,Normal,Female,Detergent,Household,5,294.02,Cash,7.7,1470.1,10
+INV0857,2025-01-20,Chennai,Member,Female,Headphones,Electronics,1,373.49,Debit Card,7.8,373.49,1
+INV0858,2025-06-03,Madurai,Normal,Male,Charger,Electronics,3,462.42,UPI,7.6,1387.26,6
+INV0859,2025-03-09,Madurai,Normal,Male,Dishwash Liquid,Household,6,758.72,Credit Card,8.1,4552.32,3
+INV0860,2025-08-02,Madurai,Member,Female,Rice,Food & Beverages,5,592.73,Credit Card,6.3,2963.65,8
+INV0861,2025-05-23,Madurai,Member,Male,Headphones,Electronics,7,561.26,UPI,6.4,3928.82,5
+INV0862,2025-08-20,Chennai,Member,Female,Coffee,Food & Beverages,2,174.59,UPI,7.6,349.18,8
+INV0863,2025-08-01,Chennai,Normal,Male,Notebook,Stationery,4,471.61,UPI,9.0,1886.44,8
+INV0864,2025-03-20,Madurai,Normal,Female,Face Wash,Personal Care,7,649.54,Cash,5.2,4546.78,3
+INV0865,2025-08-02,Coimbatore,Member,Male,Detergent,Household,5,876.47,Debit Card,8.0,4382.35,8
+INV0866,2025-04-26,Coimbatore,Member,Female,Oil,Food & Beverages,4,197.24,Debit Card,9.0,788.96,4
+INV0867,2025-04-02,Chennai,Normal,Female,Shampoo,Personal Care,6,28.4,Debit Card,5.8,170.4,4
+INV0868,2025-09-27,Madurai,Member,Male,Shampoo,Personal Care,2,86.27,UPI,5.1,172.54,9
+INV0869,2025-06-17,Madurai,Normal,Female,Detergent,Household,3,350.75,Debit Card,6.6,1052.25,6
+INV0870,2025-02-27,Chennai,Member,Male,Rice,Food & Beverages,7,742.08,UPI,7.9,5194.56,2
+INV0871,2025-10-11,Coimbatore,Member,Female,Charger,Electronics,3,26.29,Cash,5.7,78.87,10
+INV0872,2025-01-26,Coimbatore,Normal,Female,Bread,Food & Beverages,2,421.92,Credit Card,7.1,843.84,1
+INV0873,2025-03-07,Coimbatore,Member,Female,Detergent,Household,4,309.72,UPI,7.8,1238.88,3
+INV0874,2025-09-05,Chennai,Member,Male,Coffee,Food & Beverages,6,66.18,UPI,8.0,397.08,9
+INV0875,2025-09-11,Coimbatore,Member,Female,Coffee,Food & Beverages,5,416.21,Credit Card,6.4,2081.05,9
+INV0876,2025-02-13,Chennai,Normal,Male,Headphones,Electronics,2,244.18,Credit Card,7.0,488.36,2
+INV0877,2025-04-07,Chennai,Member,Female,Face Wash,Personal Care,1,329.66,Cash,8.9,329.66,4
+INV0878,2025-02-11,Madurai,Member,Male,Face Wash,Personal Care,4,640.94,Debit Card,9.7,2563.76,2
+INV0879,2025-08-15,Coimbatore,Member,Male,Milk,Food & Beverages,3,478.96,UPI,9.3,1436.88,8
+INV0880,2025-09-19,Chennai,Member,Male,Rice,Food & Beverages,7,129.69,Debit Card,7.8,907.83,9
+INV0881,2025-06-16,Coimbatore,Member,Female,Oil,Food & Beverages,2,866.04,UPI,7.1,1732.08,6
+INV0882,2025-10-06,Coimbatore,Member,Male,Oil,Food & Beverages,3,579.6,Cash,6.7,1738.8,10
+INV0883,2025-03-30,Madurai,Normal,Female,Charger,Electronics,4,693.96,Credit Card,5.6,2775.84,3
+INV0884,2025-06-27,Coimbatore,Normal,Male,Shampoo,Personal Care,3,89.71,Cash,5.5,269.13,6
+INV0885,2025-07-16,Madurai,Member,Male,Shampoo,Personal Care,2,61.41,Credit Card,8.4,122.82,7
+INV0886,2025-11-03,Chennai,Normal,Male,Shampoo,Personal Care,4,37.11,Debit Card,6.3,148.44,11
+INV0887,2025-09-24,Coimbatore,Normal,Male,Shampoo,Personal Care,1,186.14,Debit Card,6.3,186.14,9
+INV0888,2025-09-25,Chennai,Member,Female,Headphones,Electronics,2,384.68,Cash,10.0,769.36,9
+INV0889,2025-03-15,Coimbatore,Normal,Male,Detergent,Household,5,843.53,Credit Card,5.9,4217.65,3
+INV0890,2025-01-08,Chennai,Normal,Male,Cleaner,Household,6,422.21,Cash,5.7,2533.26,1
+INV0891,2025-10-24,Coimbatore,Normal,Female,Rice,Food & Beverages,2,275.42,Credit Card,5.5,550.84,10
+INV0892,2025-06-13,Coimbatore,Normal,Male,Milk,Food & Beverages,4,514.5,Credit Card,7.9,2058.0,6
+INV0893,2025-03-26,Coimbatore,Normal,Male,Charger,Electronics,7,118.5,Debit Card,8.1,829.5,3
+INV0894,2025-03-13,Coimbatore,Normal,Male,Charger,Electronics,6,556.37,Debit Card,6.8,3338.22,3
+INV0895,2025-02-24,Coimbatore,Normal,Male,Charger,Electronics,2,520.22,Credit Card,7.7,1040.44,2
+INV0896,2025-02-16,Coimbatore,Normal,Female,Cleaner,Household,1,716.95,Credit Card,8.9,716.95,2
+INV0897,2025-08-26,Coimbatore,Member,Female,Dishwash Liquid,Household,7,888.29,Credit Card,9.1,6218.03,8
+INV0898,2025-04-14,Coimbatore,Member,Male,Shampoo,Personal Care,1,240.77,Debit Card,9.8,240.77,4
+INV0899,2025-07-29,Coimbatore,Normal,Female,Toothpaste,Personal Care,5,468.5,Debit Card,9.1,2342.5,7
+INV0900,2025-02-11,Chennai,Normal,Female,Cleaner,Household,7,819.8,UPI,7.8,5738.6,2
+INV0901,2025-11-12,Madurai,Member,Male,Coffee,Food & Beverages,3,710.97,Credit Card,5.9,2132.91,11
+INV0902,2025-09-25,Coimbatore,Normal,Female,Shampoo,Personal Care,7,448.92,UPI,5.5,3142.44,9
+INV0903,2025-09-20,Madurai,Normal,Male,Dishwash Liquid,Household,6,851.93,Credit Card,5.3,5111.58,9
+INV0904,2025-12-02,Coimbatore,Member,Female,Bulb,Electronics,7,70.37,Debit Card,8.3,492.59,12
+INV0905,2025-12-31,Coimbatore,Member,Female,Headphones,Electronics,4,839.28,UPI,9.0,3357.12,12
+INV0906,2025-09-16,Chennai,Member,Female,Oil,Food & Beverages,4,64.45,UPI,7.5,257.8,9
+INV0907,2025-10-10,Chennai,Normal,Male,Dishwash Liquid,Household,3,501.63,Cash,5.3,1504.89,10
+INV0908,2025-04-24,Madurai,Normal,Female,Cleaner,Household,7,803.59,Credit Card,7.7,5625.13,4
+INV0909,2025-12-29,Chennai,Member,Male,Headphones,Electronics,1,251.19,Debit Card,9.7,251.19,12
+INV0910,2025-02-09,Chennai,Member,Male,Marker,Stationery,1,435.58,Cash,8.0,435.58,2
+INV0911,2025-08-08,Madurai,Normal,Female,Marker,Stationery,2,305.41,Cash,9.0,610.82,8
+INV0912,2025-05-09,Chennai,Member,Male,Dishwash Liquid,Household,5,857.89,Credit Card,9.0,4289.45,5
+INV0913,2025-01-08,Coimbatore,Normal,Female,Toothpaste,Personal Care,6,744.81,Cash,9.7,4468.86,1
+INV0914,2025-04-11,Madurai,Normal,Male,Notebook,Stationery,5,643.92,Credit Card,8.9,3219.6,4
+INV0915,2025-06-25,Madurai,Member,Male,Cleaner,Household,7,537.11,Cash,8.7,3759.77,6
+INV0916,2025-04-17,Coimbatore,Member,Female,Charger,Electronics,5,742.12,Credit Card,6.2,3710.6,4
+INV0917,2025-04-11,Chennai,Normal,Female,Cleaner,Household,2,365.19,Debit Card,5.3,730.38,4
+INV0918,2025-09-17,Madurai,Member,Female,Notebook,Stationery,5,413.85,Credit Card,7.6,2069.25,9
+INV0919,2025-09-03,Madurai,Member,Female,Coffee,Food & Beverages,3,662.4,Credit Card,5.6,1987.2,9
+INV0920,2025-10-02,Coimbatore,Member,Male,Oil,Food & Beverages,2,334.82,UPI,9.8,669.64,10
+INV0921,2025-02-01,Coimbatore,Member,Male,Soap,Personal Care,3,76.23,Debit Card,6.4,228.69,2
+INV0922,2025-05-17,Chennai,Normal,Male,Headphones,Electronics,7,85.41,Debit Card,9.3,597.87,5
+INV0923,2025-01-12,Madurai,Normal,Female,Charger,Electronics,2,121.52,Debit Card,6.9,243.04,1
+INV0924,2025-10-29,Chennai,Normal,Male,Charger,Electronics,7,785.32,Cash,6.6,5497.24,10
+INV0925,2025-01-16,Chennai,Normal,Female,Bread,Food & Beverages,7,435.56,UPI,9.7,3048.92,1
+INV0926,2025-05-09,Coimbatore,Member,Male,Coffee,Food & Beverages,5,647.34,Debit Card,6.8,3236.7,5
+INV0927,2025-03-04,Madurai,Member,Female,Soap,Personal Care,3,365.76,Cash,7.0,1097.28,3
+INV0928,2025-04-19,Madurai,Normal,Male,Face Wash,Personal Care,7,247.67,Cash,5.5,1733.69,4
+INV0929,2025-01-21,Madurai,Normal,Male,Charger,Electronics,3,325.53,Cash,8.4,976.59,1
+INV0930,2025-06-07,Coimbatore,Member,Female,Face Wash,Personal Care,3,718.88,UPI,6.4,2156.64,6
+INV0931,2025-09-26,Coimbatore,Normal,Male,Toothpaste,Personal Care,2,570.19,Cash,7.9,1140.38,9
+INV0932,2025-06-11,Coimbatore,Normal,Female,Dishwash Liquid,Household,4,845.12,UPI,8.0,3380.48,6
+INV0933,2025-09-17,Coimbatore,Member,Male,Marker,Stationery,5,618.14,Credit Card,8.6,3090.7,9
+INV0934,2025-04-12,Coimbatore,Normal,Male,Pen,Stationery,7,521.76,Cash,8.7,3652.32,4
+INV0935,2025-08-11,Madurai,Member,Female,Marker,Stationery,3,556.97,Debit Card,7.6,1670.91,8
+INV0936,2025-02-28,Chennai,Member,Female,Bread,Food & Beverages,6,849.29,Cash,6.7,5095.74,2
+INV0937,2025-09-04,Madurai,Normal,Male,Face Wash,Personal Care,4,713.62,Credit Card,9.2,2854.48,9
+INV0938,2025-05-08,Chennai,Member,Male,Charger,Electronics,7,41.16,Credit Card,6.5,288.12,5
+INV0939,2025-10-10,Coimbatore,Normal,Male,Face Wash,Personal Care,6,490.04,Cash,7.5,2940.24,10
+INV0940,2025-11-21,Chennai,Member,Male,Toothpaste,Personal Care,5,625.74,Credit Card,7.0,3128.7,11
+INV0941,2025-01-25,Madurai,Normal,Male,Notebook,Stationery,5,678.85,UPI,9.3,3394.25,1
+INV0942,2025-05-11,Madurai,Normal,Male,Notebook,Stationery,3,207.57,UPI,7.2,622.71,5
+INV0943,2025-12-19,Chennai,Normal,Female,Headphones,Electronics,3,783.12,Cash,6.9,2349.36,12
+INV0944,2025-07-15,Coimbatore,Member,Female,Coffee,Food & Beverages,7,861.14,UPI,8.4,6027.98,7
+INV0945,2025-10-08,Coimbatore,Member,Female,Toothpaste,Personal Care,2,228.31,UPI,8.0,456.62,10
+INV0946,2025-06-03,Madurai,Normal,Male,Bread,Food & Beverages,4,796.7,Debit Card,5.5,3186.8,6
+INV0947,2025-05-13,Chennai,Member,Male,Rice,Food & Beverages,7,105.34,Cash,7.5,737.38,5
+INV0948,2025-08-15,Coimbatore,Normal,Male,Charger,Electronics,4,69.02,Credit Card,8.7,276.08,8
+INV0949,2025-07-08,Coimbatore,Normal,Female,Detergent,Household,3,133.72,Cash,10.0,401.16,7
+INV0950,2025-09-22,Madurai,Member,Female,Marker,Stationery,5,70.81,UPI,8.1,354.05,9
+INV0951,2025-05-14,Coimbatore,Normal,Male,Coffee,Food & Beverages,3,763.61,Debit Card,6.9,2290.83,5
+INV0952,2025-07-30,Chennai,Member,Male,Headphones,Electronics,5,71.96,Cash,6.1,359.8,7
+INV0953,2025-03-01,Madurai,Normal,Female,Dishwash Liquid,Household,7,259.06,Cash,9.4,1813.42,3
+INV0954,2025-12-30,Madurai,Member,Female,Dishwash Liquid,Household,5,111.31,UPI,9.1,556.55,12
+INV0955,2025-12-30,Chennai,Normal,Female,Soap,Personal Care,3,279.97,UPI,6.2,839.91,12
+INV0956,2025-08-01,Madurai,Normal,Male,Face Wash,Personal Care,1,99.69,Cash,6.0,99.69,8
+INV0957,2025-08-04,Coimbatore,Member,Male,Rice,Food & Beverages,4,607.84,UPI,8.6,2431.36,8
+INV0958,2025-08-14,Coimbatore,Normal,Male,Marker,Stationery,6,137.33,UPI,6.6,823.98,8
+INV0959,2025-05-11,Chennai,Normal,Female,Headphones,Electronics,5,769.62,UPI,6.5,3848.1,5
+INV0960,2025-03-17,Coimbatore,Member,Female,Coffee,Food & Beverages,5,739.13,UPI,5.8,3695.65,3
+INV0961,2025-10-13,Chennai,Normal,Male,Headphones,Electronics,1,32.02,UPI,6.3,32.02,10
+INV0962,2025-10-04,Chennai,Member,Male,Detergent,Household,7,808.24,Debit Card,7.1,5657.68,10
+INV0963,2025-06-05,Coimbatore,Normal,Female,Notebook,Stationery,7,45.47,UPI,8.7,318.29,6
+INV0964,2025-09-05,Chennai,Member,Male,Rice,Food & Beverages,7,230.89,Credit Card,6.7,1616.23,9
+INV0965,2025-08-06,Coimbatore,Normal,Female,Bulb,Electronics,6,48.5,Cash,6.6,291.0,8
+INV0966,2025-07-09,Madurai,Normal,Female,Bulb,Electronics,2,315.54,Debit Card,6.4,631.08,7
+INV0967,2025-06-12,Madurai,Normal,Male,Pen,Stationery,1,472.2,Debit Card,7.4,472.2,6
+INV0968,2025-06-29,Chennai,Member,Female,Soap,Personal Care,6,721.05,UPI,5.9,4326.3,6
+INV0969,2025-02-03,Coimbatore,Member,Male,Pen,Stationery,1,317.42,Cash,7.4,317.42,2
+INV0970,2025-02-10,Coimbatore,Member,Female,Notebook,Stationery,5,640.83,Credit Card,8.5,3204.15,2
+INV0971,2025-11-03,Madurai,Member,Female,Dishwash Liquid,Household,4,185.0,UPI,5.1,740.0,11
+INV0972,2025-12-04,Madurai,Normal,Male,Notebook,Stationery,1,680.53,Cash,5.0,680.53,12
+INV0973,2025-11-10,Coimbatore,Normal,Female,Detergent,Household,2,227.68,UPI,5.4,455.36,11
+INV0974,2025-03-16,Chennai,Member,Male,Rice,Food & Beverages,3,146.32,UPI,7.7,438.96,3
+INV0975,2025-10-06,Madurai,Member,Male,Dishwash Liquid,Household,6,183.16,UPI,9.3,1098.96,10
+INV0976,2025-06-25,Chennai,Member,Female,Charger,Electronics,1,180.22,UPI,5.0,180.22,6
+INV0977,2025-05-30,Chennai,Normal,Male,Headphones,Electronics,1,471.32,UPI,9.7,471.32,5
+INV0978,2025-09-30,Madurai,Member,Male,Face Wash,Personal Care,2,763.42,UPI,5.5,1526.84,9
+INV0979,2025-11-21,Chennai,Member,Male,Cleaner,Household,4,90.05,UPI,9.2,360.2,11
+INV0980,2025-04-18,Chennai,Normal,Male,Soap,Personal Care,1,642.12,Credit Card,7.4,642.12,4
+INV0981,2025-05-19,Coimbatore,Normal,Male,Soap,Personal Care,1,595.82,Debit Card,8.3,595.82,5
+INV0982,2025-12-16,Chennai,Member,Male,Bread,Food & Beverages,4,787.82,Credit Card,7.6,3151.28,12
+INV0983,2025-09-28,Coimbatore,Normal,Female,Toothpaste,Personal Care,2,234.85,UPI,7.4,469.7,9
+INV0984,2025-12-13,Madurai,Member,Male,Charger,Electronics,6,416.1,UPI,9.2,2496.6,12
+INV0985,2025-10-16,Madurai,Normal,Female,Bulb,Electronics,6,834.73,Credit Card,8.8,5008.38,10
+INV0986,2025-07-31,Coimbatore,Member,Female,Pen,Stationery,1,600.79,Credit Card,7.4,600.79,7
+INV0987,2025-09-29,Madurai,Member,Male,Face Wash,Personal Care,4,362.12,Debit Card,5.6,1448.48,9
+INV0988,2025-03-07,Chennai,Member,Female,Soap,Personal Care,1,135.64,Credit Card,5.6,135.64,3
+INV0989,2025-09-05,Chennai,Member,Female,Oil,Food & Beverages,7,250.99,Debit Card,9.0,1756.93,9
+INV0990,2025-06-05,Chennai,Normal,Male,Marker,Stationery,3,531.47,UPI,7.6,1594.41,6
+INV0991,2025-02-16,Madurai,Normal,Male,Soap,Personal Care,6,651.99,Cash,7.4,3911.94,2
+INV0992,2025-07-20,Chennai,Normal,Male,Toothpaste,Personal Care,7,129.49,Cash,8.4,906.43,7
+INV0993,2025-05-28,Madurai,Normal,Female,Shampoo,Personal Care,5,547.65,Cash,9.3,2738.25,5
+INV0994,2025-05-04,Chennai,Member,Female,Shampoo,Personal Care,3,504.31,Cash,8.1,1512.93,5
+INV0995,2025-01-01,Coimbatore,Member,Male,Milk,Food & Beverages,1,472.28,UPI,8.8,472.28,1
+INV0996,2025-09-04,Madurai,Normal,Male,Coffee,Food & Beverages,2,627.31,Cash,8.8,1254.62,9
+INV0997,2025-12-09,Madurai,Normal,Female,Detergent,Household,6,756.96,Credit Card,6.8,4541.76,12
+INV0998,2025-05-08,Chennai,Normal,Female,Headphones,Electronics,5,304.23,Credit Card,6.4,1521.15,5
+INV0999,2025-07-10,Madurai,Normal,Female,Bread,Food & Beverages,3,802.33,Cash,9.0,2406.99,7
+INV1000,2025-03-08,Madurai,Normal,Female,Notebook,Stationery,6,161.36,Credit Card,6.9,968.16,3
